@@ -1,50 +1,63 @@
-# DSI6-lessons
+# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Course Schedule
 
+#### Skip to [Administrative Links](#administrative-links)
+
+## [Machine Learning Roadmap](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+![](./admin-assets/ml_map.png)
+
+
+## Code Challenges
+
+  Every Morning from 9:00-9:40, you will be doing code challenges. These will not only strengthen your underlying python skills, but your logic and are common practice for interviews when you apply for a job. They will get progressively harder throughout the course and be 25 minutes of coding and 15 minutes of review. If you do finish the challenge within the 25 minutes, please post your solution in the [code-challenge-channel](https://miskacademy.slack.com/messages/CE06A1TLN) so that we can review many solutions.
+
+  You can view each weeks challenges [HERE](https://www.hackerrank.com/dsi-ruh-2) - You may need to create a Hackerrank account if you don't have
+
+## Syllabus
 
 ## Week 1: Programming Fundamentals
 
 | Session Time  | Day 1                                           | Day 2                                        | Day 3                                               | Day 4                               | Day 5                                             |
 | ------------- | ----------------------------------------------- | -------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ------------------------------------------------- |
-| 9:00 - 10:30  | [Welcome to Data Science][1-1a]                 | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Linear algebra - Lesson][1-4a]     | [Breakfast]                                       |
-| 10:45 - 12:30 | [Command line lesson][1-1b]                     | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Linear algebra - Lab][1-4a]        | [lesson-1-github-pull-request-vs-branching][1-5a] |
-| 13:30 - 15:00 | [Introduction to Github][1-1c]                  | [lesson-3-control-flows-and-functions][1-2c] | [Lesson_2-descriptive_statistics][1-3b]             | [Data visualisation - Lesson][1-4c] | [Project 1]                                       |
-| 15:15 - 17:00 | [Installations/ Stand-ups / Get together][1-1d] | [lab-python-practice][1-2d]                  | [Lab_1-sales_data_lab][1-3c]                        | [Lab_2-python_movies_lab][1-4d]     | [Project 1]                                       |
+| 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Linear algebra - Lesson][1-4a]     | [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
+| 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Linear algebra - Lab][1-4a]        | [**Intro Project 1**](./projects/project-1) |
+| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | [Lesson_2-descriptive_statistics][1-3b]             | [Data visualisation - Lesson][1-4c] |   Project Time                                   |
+| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  | [Lab_1-sales_data_lab][1-3c]                        | [Lab_2-python_movies_lab][1-4d]     | Project Time                                      |
 
 
 ## Week 2: Exploratory Data Analysis and Pandas
 
 | Session Time  | Day 1                                  | Day 2                                             | Day 3                                                      | Day 4 | Day 5 |
 | ------------- | -------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ----- | ----- |
-| 9:00 - 10:30  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       | [Lesson - Normal Distribution and Central Limit Theorem][2-4b]      |
-| 10:45 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |[Lesson - Normal Distribution and Central Limit Theorem][2-4b]       |[Lesson - Confidence Intervals][2-5b] |
-| 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lab - Pandas Data Munging Full Overview][2-4c]|Project|       
-| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | Quizz |[Pandas plotting reference][2-4d]|Project|
+| 9:50 - 11:20  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       | [Lesson - Normal Distribution and Central Limit Theorem][2-4b]      |
+| 11:20 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |[Lesson - Normal Distribution and Central Limit Theorem][2-4b]       |[Lesson - Confidence Intervals][2-5b] |
+| 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lab - Pandas Data Munging Full Overview][2-4c]| Jeopardy 1 |       
+| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | Project Time |[Pandas plotting reference][2-4d]|Project Time|
 
 ## Week 3: Linear Regression
 
 | Session Time  | Day 1                                    | Day 2                                                  | Day 3                                             | Day 4                          | Day 5                            |
 | ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------------------------------- |
-| 9:00 - 10:30  | [Intro to modelling - Lesson][3-1a]      | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] | [Bias Variance - Lesson][3-4a] | [Dummy Variables - Lesson][3-5a] |
-| 10:45 - 12:30 | [Intro to modelling - Lab][3-1a]         | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       | [Bias Variance - Lab][3-4b]    | [Regression Review][3-5b]        |
-| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     | [Cross validation and train test split - lesson][3-2c] | [Regularisation lesson][3-3c]                     | [Regularisation - Lab][3-3d]   | Project - One-on-ones            |
-| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] | [Cross validation and train test split - lab][3-2d]    | [Regularisation lesson][3-3c]                     | [Regularisation - Lab][3-3d]                               | Project - One-on-ones                       |
+| 9:50 - 11:20  | **Project 1 Due** & [Intro to modelling - Lesson][3-1a]      | [Linear regression from scratch][3-2a]                 | [Preprocessing & features scaling - lesson][3-3a] | [Bias Variance - Lesson][3-4a] | [Dummy Variables - Lesson][3-5a] |
+| 11:20 - 12:30 | [Intro to modelling - Lab][3-1a]         | [Regression evaluation loss functions][3-2b]           | [Loss functions and regression - lab][3-3b]       | [Bias Variance - Lab][3-4b]    | [Regression Review][3-5b]        |
+| 13:30 - 15:00 | [Simple linear regression Lab][3-1c]     | [Cross validation and train test split - lesson][3-2c] | [Regularisation lesson][3-3c]                     | [Regularisation - Lab][3-3d]   | [**Intro Project 2**](./projects/project-2)           |
+| 15:15 - 17:00 | [Regression sklearn & statsmodels][3-1d] | [Cross validation and train test split - lab][3-2d]    | [Regularisation lesson][3-3c]                     | [Regularisation - Lab][3-3d]                               | Project Time                     |
 
 
 ## Week 4: Intro to Logistic Regression
 
 | Session Time  | Day 1                                          | Day 2                                  | Day 3                                                  | Day 4                                                 | Day 5                                    |
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- |
-| 9:00 - 10:30  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
-| 10:45 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Object Oriented Programming - LR][4-5b] |
+| 9:50 - 11:20  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
+| 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Object Oriented Programming - LR][4-5b] |
 | 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                                               | [Classification with multiple classes - Lab][4-4c]    | [Logistic Regression Review][4-5c]                            |
-| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | Capstone project - Outline                            | Project 3 / 1:1                                 |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | [**Intro Capstone project Part  - Outline](./projects/project-capstone/part-01)                           | Jeopardy 2                               |
 
 ## Week 5: Databases, Apis, Web Scraping, Statistics
 
 | Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4 | Day 5 |
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
-| 09:00 - 10:30 | [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Intro-to-web-services - lab][5-3a]              | [Statistics - Hypothesis testing][5-4a]| Project      |
-| 10:45 - 12:30 | [Intro to web services - lesson + lab][5-1b]     | [SQL - Pandas - Lab 2][5-2b]              | [database-sql-commands-together-lab][5-3b] | [Statistics - Bootstrapping][5-4b]     |  [Group project][5-5b]     |
+| 09:50 - 11:20 | **Project 2 Due** & [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Intro-to-web-services - lab][5-3a]              | [Statistics - Hypothesis testing][5-4a]| [**Intro Project 3**](./projects/project-3)      |
+| 11:20 - 12:30 | [Intro to web services - lesson + lab][5-1b]     | [SQL - Pandas - Lab 2][5-2b]              | [database-sql-commands-together-lab][5-3b] | [Statistics - Bootstrapping][5-4b]     |  [Group project][5-5b]     |
 | 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to web scraping][5-2c]    | [python-webscraping-xpath-lesson][5-3c]          |[Tableau Intro][5-4c]    |   [Group project][5-5b]     |
 | 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d] | [Web scraping lab (Lincoln quotes)][5-2d] | [practice-postgres-sql][5-3d]                        | [Tableau Intro][5-4c]      |    [Group project][5-5b]    |
 
@@ -52,35 +65,35 @@
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4                      | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
-| 09:00 - 10:30 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] |       |
-| 10:45 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |       |
-| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | [NLP Intro - Lab][6-4b]    |       |
-| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            | Project                    |       |
+| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] | Jeopardy 3      |
+| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |  Project Time     |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | [NLP Intro - Lab][6-4b]    | Project Time      |
+| 15:15 - 17:00 |                                 | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            | Project Time                   | Project Time  |    |
 
 ## Week 7: Unsupervised Learning Methods
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                                    | Day 4                              | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ---------------------------------- | ----- |
-| 09:00 - 10:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
-| 10:45 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
+| 09:50 - 11:20 | **Project 3 Due** & [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
+| 11:20 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
 | 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | [PCA Faces - Lab][7-3c]                  | [DBSCAN - Lab][7-4b]               |       |
-| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |       |
+| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |       ||
 
 ## Week 8: Bayesian Inference
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 | [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
-| 10:45 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    |       |
+| 09:50 - 11:20 | [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
+| 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    |       |
 | 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Outcomes            | [sklearn pipeline - lesson/lab][8-4c]     |       |
-| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Outcomes            | [Twitter api - case study][8-4d]          |       |
+| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Outcomes            | [Twitter api - case study][8-4d]          |       ||
 
 ## Week 9: Time series analysis
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Time Series - Intro][9-1a]|[Autocorrelations - Lab][9-2a]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lab][9-3d]|[GARCH Models - Lesson][9-5a]|
-| 10:45 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]|[ARIMA - Lab 2][9-2d]|[VARMA - Lesson][9-4b]|[GARCH Models - Lab][9-5a]|
+| 09:50 - 11:20 |[Time Series - Intro][9-1a]|[Autocorrelations - Lab][9-2a]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lab][9-3d]|[GARCH Models - Lesson][9-5a]|
+| 11:20 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]|[ARIMA - Lab 2][9-2d]|[VARMA - Lesson][9-4b]|[GARCH Models - Lab][9-5a]|
 | 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lesson][9-3c]|[VARMA - Lab][9-4c]|Capstone|
 | 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]|[Seasonal Arima - Lab][9-3d]|[VARMA - Lab][9-4c]|Capstone|
 
@@ -88,17 +101,17 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lesson][10-2c]|[AWS Intro][10-4a]|[Hadoop - Lab][10-4d]|
-| 10:45 - 12:30 |Holiday|[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lab][10-3b]|[AWS Intro][10-4a]|[Hive - Lab][10-5a]|
-| 13:30 - 15:00 |Holiday|[Intro to Spark - Lesson][10-2c]|Outcomes|[AWS Intro][10-4a]|Capstone|
-| 15:15 - 17:00 |Holiday|[Intro to Spark - Lesson][10-2c]|Outcomes|[Hadoop on AWS][10-4d]|Capstone|
+| 09:50 - 11:20 | |[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lesson][10-2c]|[AWS Intro][10-4a]|[Hadoop - Lab][10-4d]|
+| 11:20 - 12:30 | |[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lab][10-3b]|[AWS Intro][10-4a]|[Hive - Lab][10-5a]|
+| 13:30 - 15:00 | |[Intro to Spark - Lesson][10-2c]|Outcomes|[AWS Intro][10-4a]|Capstone|
+| 15:15 - 17:00 | |[Intro to Spark - Lesson][10-2c]|Outcomes|[Hadoop on AWS][10-4d]|Capstone|
 
 ## Week 11: Advanced topics
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Spark ML - Lesson][11-1a]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]|[Directed Networks - Lesson][11-5a]|
-| 10:45 - 12:30 |[Spark ML - Lab][11-1b]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]|[Tube Network - Lab][11-5b]|
+| 09:50 - 11:20 |[Spark ML - Lesson][11-1a]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]|[Directed Networks - Lesson][11-5a]|
+| 11:20 - 12:30 |[Spark ML - Lab][11-1b]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]|[Tube Network - Lab][11-5b]|
 | 13:30 - 15:00 |[Support Vector Machines - Lesson][11-1c]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|[Networks - Lab][11-4c]|Capstone|
 | 15:15 - 17:00 |[Support Vector Machines - Lab 1][11-1d]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|Capstone|Capstone|
 
@@ -106,8 +119,8 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:00 - 10:30 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lesson][12-2a]|[Recommendation Systems Intro - Lesson][12-3a]|[Surprise - Lesson][12-4a]|Presentations|
-| 10:45 - 12:30 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lab][12-2b]|[Recommendation Systems Intro - Lesson][12-3a]|[Surprise - Lab][12-4a]|Presentations|
+| 09:50 - 11:20 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lesson][12-2a]|[Recommendation Systems Intro - Lesson][12-3a]|[Surprise - Lesson][12-4a]|Presentations|
+| 11:20 - 12:30 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lab][12-2b]|[Recommendation Systems Intro - Lesson][12-3a]|[Surprise - Lab][12-4a]|Presentations|
 | 13:30 - 15:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
 | 15:15 - 17:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
 
@@ -325,3 +338,62 @@
 [12-3a]: ./week12/day3_recommender_systems_intro
 
 [12-4a]: ./week12/day4_recommender_systems/surprise_lab
+
+
+
+## Administrative Links
+
+- [Prayer Breaks](./admin-assets/prayer.md)
+- [Graduation Requirements](./admin-assets/graduation-requirements.md)
+- [Attendance](./admin-assets/attendance.md)
+- [Homework Policy](./admin-assets/homework-policy.md)
+- [Homework Submission](./admin-assets/homework-submission.md)
+- [Office Hours](./admin-assets/office-hours.md)
+- [Asking for Help](./admin-assets/asking-for-help.md)
+- [Expectations](./admin-assets/expectations.md)
+- [One-on-Ones](./admin-assets/one-on-ones.md)
+- [Resources](./admin-assets/resources.md)
+
+## Important Dates
+  * 11 Nov 2018 - Course begins
+  * 21 - 29 Dec - No Classes
+  * 7 Feb 2019 - Final
+  Presentations
+
+## Communication
+  - You have been invited to the following Slack teams:
+    - [Misk Academy Slack](https://miskacademy.slack.com)
+  - For informal communication that doesn't need to be private, use the [data-sci-immers-11-11](https://gainstructors.slack.com/messages/CDPL7MMDW) room
+  - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
+  -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [charles-rice-dsi](https://miskacademy.slack.com/messages/DBZE4375L)
+
+## Office Hours
+
+ Schedule [office hours](https://esraamadi.youcanbook.me/) with Esra
+
+## Exit tickets
+
+Exit tickets will be filled out at the end of each week: [LINK](https://goo.gl/forms/ogorng6ujHsv75QY2)
+
+
+## Outcomes
+
+- Outcomes Programming Syllabus
+
+## Slack Tips
+
+- <code>&grave;hello&grave;</code>: Backticks (usually shift + Esc) makes text show up in a monospace font. Great for code.
+- Code blocks are made with three backticks:
+  <pre>
+  &grave;&grave;&grave;
+  The backticks MUST be on a line by themselves!
+  &grave;&grave;&grave;
+  </pre>
+- You can specify the language directly after the backticks to have colors show up on github
+  <pre>
+  &grave;&grave;&grave;python
+    colors = ['red', 'blue', 'yellow']
+  &grave;&grave;&grave;
+  </pre>
+- These same backtick tricks also work on **GitHub** and **Slack**.
+- `@here`: Sends a message to everyone currently online in a Slack room. Please don't do this unless absolutely necessary!

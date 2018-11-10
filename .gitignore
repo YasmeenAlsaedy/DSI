@@ -128,7 +128,8 @@ Icon
 # Network Trash Folder
 # Temporary Items
  .apdisk
- 
+
  # zip files
  *.zip
- 
+
+ */solution-code
