@@ -361,15 +361,13 @@
   Presentations
 
 ## Communication
-  - You have been invited to the following Slack teams:
-    - [Misk Academy Slack](https://miskacademy.slack.com)
-  - For informal communication that doesn't need to be private, use the [data-sci-immers-11-11](https://gainstructors.slack.com/messages/CDPL7MMDW) room
-  - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
-  -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [charles-rice-dsi](https://miskacademy.slack.com/messages/DBZE4375L)
+  - [Misk Academy Slack](https://miskacademy.slack.com)
+  - For informal communication that doesn't need to be private, use the `ds-immersive-11-11` room
+  - If you need to talk to the instructors privately, grab us in between sessions so we can decide on the best channel to bring the conversation forward.
 
 ## Office Hours
 
- Schedule [office hours](https://esraamadi.youcanbook.me/) with Esra
+ Schedule [office hours](https://esraamadi.youcanbook.me/) with Esraa
 
 ## Exit tickets
 
@@ -396,4 +394,3 @@ Exit tickets will be filled out at the end of each week: [LINK](https://goo.gl/f
   &grave;&grave;&grave;
   </pre>
 - These same backtick tricks also work on **GitHub** and **Slack**.
-- `@here`: Sends a message to everyone currently online in a Slack room. Please don't do this unless absolutely necessary!
