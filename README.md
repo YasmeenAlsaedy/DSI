@@ -18,10 +18,10 @@
 
 | Session Time  | Day 1                                           | Day 2                                        | Day 3                                               | Day 4                               | Day 5                                             |
 | ------------- | ----------------------------------------------- | -------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ------------------------------------------------- |
-| 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Linear algebra - Lesson][1-4a]     | [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
-| 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Linear algebra - Lab][1-4a]        | [**Intro Project 1**](./projects/project-1) |
-| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | [Lesson_2-descriptive_statistics][1-3b]             | [Data visualisation - Lesson][1-4c] |   Project Time                                   |
-| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  | [Lab_1-sales_data_lab][1-3c]                        | [Lab_2-python_movies_lab][1-4d]     | Project Time                                      |
+| 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Lesson_2-descriptive_statistics][1-3b]   |  [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
+| 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |  [Lab_1-sales_data_lab][1-3c]          | [**Intro Project 1**](./projects/project-1) |
+| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | MISK GLOBAL FORUM            | [Data visualisation - Lesson][1-4c] |   Project Time                                   |
+| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  MISK GLOBAL FORUM                   | [Lab_2-python_movies_lab][1-4d]     | Project Time                                      |
 
 
 ## Week 2: Exploratory Data Analysis and Pandas
@@ -31,7 +31,7 @@
 | 9:50 - 11:20  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       | [Lesson - Normal Distribution and Central Limit Theorem][2-4b]      |
 | 11:20 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |[Lesson - Normal Distribution and Central Limit Theorem][2-4b]       |[Lesson - Confidence Intervals][2-5b] |
 | 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lab - Pandas Data Munging Full Overview][2-4c]| Jeopardy 1 |       
-| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | Project Time |[Pandas plotting reference][2-4d]|Project Time|
+| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | [Linear algebra - Lesson][1-4a] & [Linear algebra - Lab][1-4a]  |[Pandas plotting reference][2-4d]|Project Time|
 
 ## Week 3: Linear Regression
 
@@ -50,7 +50,7 @@
 | 9:50 - 11:20  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
 | 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Object Oriented Programming - LR][4-5b] |
 | 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                                               | [Classification with multiple classes - Lab][4-4c]    | [Logistic Regression Review][4-5c]                            |
-| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | [**Intro Capstone project Part  - Outline](./projects/project-capstone/part-01)                           | Jeopardy 2                               |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                           | Jeopardy 2                               |
 
 ## Week 5: Databases, Apis, Web Scraping, Statistics
 
