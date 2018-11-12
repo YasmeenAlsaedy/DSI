@@ -19,10 +19,10 @@
 
 | Session Time  | Day 1                                           | Day 2                                        | Day 3                                               | Day 4                               | Day 5                                             |
 | ------------- | ----------------------------------------------- | -------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ------------------------------------------------- |
-| 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Lesson_2-descriptive_statistics][1-3b]   |  [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
-| 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |  [Lab_1-sales_data_lab][1-3c]          | [**Intro Project 1**](./projects/project-1) |
-| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | [Linear algebra - Lesson][1-4a]            |  MISK GLOBAL FORUM   |   [Data visualisation - Lesson][1-4c]                              |
-| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  [Linear algebra - Lab][1-4a]                 | MISK GLOBAL FORUM    | [Lab_2-python_movies_lab][1-4d]           |
+| 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |  [Linear algebra - Lesson][1-4a]       |  [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
+| 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |   [Linear algebra - Lab][1-4a]          | [**Intro Project 1**](./projects/project-1) |
+| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | [Lesson_2-descriptive_statistics][1-3b]       |  MISK GLOBAL FORUM   |   [Data visualisation - Lesson][1-4c]                              |
+| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  [Lab_1-sales_data_lab][1-3c]                | MISK GLOBAL FORUM    | [Lab_2-python_movies_lab][1-4d]           |
 
 
 ## Week 2: Exploratory Data Analysis and Pandas
