@@ -14,14 +14,15 @@
 
 ## Syllabus
 
+
 ## Week 1: Programming Fundamentals
 
 | Session Time  | Day 1                                           | Day 2                                        | Day 3                                               | Day 4                               | Day 5                                             |
 | ------------- | ----------------------------------------------- | -------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ------------------------------------------------- |
 | 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] | [Lesson_2-descriptive_statistics][1-3b]   |  [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
 | 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |  [Lab_1-sales_data_lab][1-3c]          | [**Intro Project 1**](./projects/project-1) |
-| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | MISK GLOBAL FORUM            | [Data visualisation - Lesson][1-4c] |   Project Time                                   |
-| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  MISK GLOBAL FORUM                   | [Lab_2-python_movies_lab][1-4d]     | Project Time                                      |
+| 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | [Linear algebra - Lesson][1-4a]            |  MISK GLOBAL FORUM   |   [Data visualisation - Lesson][1-4c]                              |
+| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  [Linear algebra - Lab][1-4a]                 | MISK GLOBAL FORUM    | [Lab_2-python_movies_lab][1-4d]           |
 
 
 ## Week 2: Exploratory Data Analysis and Pandas
@@ -31,7 +32,7 @@
 | 9:50 - 11:20  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       | [Lesson - Normal Distribution and Central Limit Theorem][2-4b]      |
 | 11:20 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |[Lesson - Normal Distribution and Central Limit Theorem][2-4b]       |[Lesson - Confidence Intervals][2-5b] |
 | 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lab - Pandas Data Munging Full Overview][2-4c]| Jeopardy 1 |       
-| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | [Linear algebra - Lesson][1-4a] & [Linear algebra - Lab][1-4a]  |[Pandas plotting reference][2-4d]|Project Time|
+| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | Project Time |[Pandas plotting reference][2-4d]|Project Time|
 
 ## Week 3: Linear Regression
 
@@ -361,13 +362,15 @@
   Presentations
 
 ## Communication
-  - [Misk Academy Slack](https://miskacademy.slack.com)
-  - For informal communication that doesn't need to be private, use the `ds-immersive-11-11` room
-  - If you need to talk to the instructors privately, grab us in between sessions so we can decide on the best channel to bring the conversation forward.
+  - You have been invited to the following Slack teams:
+    - [Misk Academy Slack](https://miskacademy.slack.com)
+  - For informal communication that doesn't need to be private, use the [data-sci-immers-11-11](https://gainstructors.slack.com/messages/CDPL7MMDW) room
+  - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
+  -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [charles-rice-dsi](https://miskacademy.slack.com/messages/DBZE4375L)
 
 ## Office Hours
 
- Schedule [office hours](https://esraamadi.youcanbook.me/) with Esraa
+ Schedule [office hours](https://esraamadi.youcanbook.me/) with Esra
 
 ## Exit tickets
 
@@ -394,3 +397,4 @@ Exit tickets will be filled out at the end of each week: [LINK](https://goo.gl/f
   &grave;&grave;&grave;
   </pre>
 - These same backtick tricks also work on **GitHub** and **Slack**.
+- `@here`: Sends a message to everyone currently online in a Slack room. Please don't do this unless absolutely necessary!
