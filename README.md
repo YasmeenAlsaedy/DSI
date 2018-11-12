@@ -366,7 +366,7 @@
     - [Misk Academy Slack](https://miskacademy.slack.com)
   - For informal communication that doesn't need to be private, use the [data-sci-immers-11-11](https://gainstructors.slack.com/messages/CDPL7MMDW) room
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
-  -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [charles-rice-dsi](https://miskacademy.slack.com/messages/DBZE4375L)
+  -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [Andrew Yip](https://miskacademy.slack.com/messages/DBZE4375L)
 
 ## Office Hours
 
