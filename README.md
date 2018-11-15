@@ -361,7 +361,8 @@
   * 7 Feb 2019 - Final
   Presentations
   
-| Due Date      | Assignments                                     | Projects                                     |
+## Due Dates  
+| Date          | Assignments                                     | Projects                                     |
 | ------------- | ----------------------------------------------- | -------------------------------------------- |
 | 18/11 9:00    | [lab-python-practice][1-2d] <br> [Lab_1-sales_data_lab][1-3c] <br> [Lab_2-python_movies_lab][1-4d]|      |
 | 25/11 9:00    |                |  [Project 1](./projects/project-1)      |
