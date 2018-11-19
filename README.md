@@ -363,11 +363,12 @@
   
 ## Due Dates  
 
+
 | Due Time      | Assignments                                     | Projects                                     | Optional Assignments                         |
 | ------------- | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | 18/11 9:00    | [lab-python-practice][1-2d] <br> [Lab_1-sales_data_lab][1-3c] <br> [Lab_2-python_movies_lab][1-4d]|      |[Introduction to Pandas Lab][2-1b] |
-| 25/11 9:00    |   [Lab 2 - Data cleaning][2-2d]  |  [Project 1](./projects/project-1)      |[Linear algebra - Lab] <br> [1-4a]
- [lab1-pandas-joining][2-2b]  |
+| 25/11 9:00    |                |  [Project 1](./projects/project-1)      | |
+
 
 ## Communication
   - You have been invited to the following Slack teams:
