@@ -360,11 +360,20 @@
   * 21 - 29 Dec - No Classes
   * 7 Feb 2019 - Final
   Presentations
+  
+## Due Dates  
+
+
+| Due Time      | Assignments                                     | Projects                                     | Optional Assignments                         |
+| ------------- | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| 18/11 9:00    | [lab-python-practice][1-2d] <br> [Lab_1-sales_data_lab][1-3c] <br> [Lab_2-python_movies_lab][1-4d]|      |[Introduction to Pandas Lab][2-1b] |
+| 25/11 9:00    |     [Lab 2 - Data cleaning][2-2d]            |  [Project 1](./projects/project-1)      |[Linear algebra - Lab][1-4a] <br>  [lab1-pandas-joining][2-2b]  |
+
 
 ## Communication
   - You have been invited to the following Slack teams:
     - [Misk Academy Slack](https://miskacademy.slack.com)
-  - For informal communication that doesn't need to be private, use the [data-sci-immers-11-11](https://gainstructors.slack.com/messages/CDPL7MMDW) room
+  - For informal communication that doesn't need to be private, use the `ds-immersive-11-11 channel`
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
   -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [Andrew Yip](https://miskacademy.slack.com/messages/DBZE4375L)
 
