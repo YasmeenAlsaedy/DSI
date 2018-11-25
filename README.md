@@ -40,8 +40,8 @@
 | ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------------------------------- |
 | 9:50 - 11:20  | **Project 1 Due** & [Intro to modelling - Lesson][3-1a]      | [Linear regression from scratch][3-2a]                 | [Regularisation lesson][3-3c]   | [Preprocessing & features scaling - lesson][3-3a] | [Regression Review][3-5b]   |
 | 11:20 - 12:30 | [Intro to modelling - Lab][3-1a]         | [Regression evaluation loss functions][3-2b]           | [Regularisation - Lab][3-3d]         | [Loss functions and regression - lab][3-3b]    |   Lab Time    |
-| 13:30 - 15:00 |  [Regression sklearn & statsmodels][3-1d]   | [Cross validation and train test split - lesson][3-2c] |   [Bias Variance - Lesson][3-4a]                 | [Dummy Variables - Lesson][3-5a] | [**Intro Project 2**](./projects/project-2)           |
-| 15:15 - 17:00 | [Simple linear regression Lab][3-1c]  | [Cross validation and train test split - lab][3-2d]    | [Bias Variance - Lab][3-4b]                   | Lab Time                              | Project Time                     |
+| 13:30 - 15:00 |  [Regression sklearn & statsmodels][3-1d]   | [Cross validation and train test split - lesson][3-2c] |   [Bias Variance - Lesson][3-4a]                 | [Dummy Variables - Lesson][3-5a] | Outcomes       |
+| 15:15 - 17:00 | [Simple linear regression Lab][3-1c]  | [Cross validation and train test split - lab][3-2d]    | [Bias Variance - Lab][3-4b]                   | Lab Time                              | [**Intro Project 2**](./projects/project-2)                      |
 
 
 ## Week 4: Intro to Logistic Regression
@@ -364,7 +364,7 @@
 ## Communication
   - You have been invited to the following Slack teams:
     - [Misk Academy Slack](https://miskacademy.slack.com)
-  - For informal communication that doesn't need to be private, use the [data-sci-immers-11-11](https://gainstructors.slack.com/messages/CDPL7MMDW) room
+  - For informal communication that doesn't need to be private, use the `ds-immersive-11-11` channel
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
   -Instructors: [sstebbins](https://miskacademy.slack.com/messages/DBWLD42VB) & [Andrew Yip](https://miskacademy.slack.com/messages/DBZE4375L)
 
