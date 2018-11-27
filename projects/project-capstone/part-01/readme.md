@@ -13,7 +13,7 @@ This deliverable will provide you with guidance to help you select an awesome to
 ---
 
 ## Requirements
-1. Prepare a slide deck and host a 3-5 minute lightning talk on **at least two** potential topics for your DSI capstone project. For each topic, define **all** required areas:
+1. Edit the README of your capstone project with **at least two** potential topics for your DSI capstone project. For each topic, define **all** required areas:
 
 2. Topic 1
    - Problem Statement
@@ -40,7 +40,7 @@ This deliverable will provide you with guidance to help you select an awesome to
 
 ## Deliverable Format & Submission
 
-- Slide Deck & Presentation
+- Edit README and open pull request for capstone part-1. 
 
 ---
 
@@ -60,6 +60,7 @@ This deliverable will provide you with guidance to help you select an awesome to
 **Other Tips:**
 - For your 1st potential topic, start with an idea, then look for potential data that could be used to support that idea.
 - For your 2nd potential topic, reverse the process; look for interesting data and then extrapolate problems it could solve and audiences it could impact.
+- Choose a topic that you have interest in as you will be working on this a lot, or choose a topic with data from the industry you wish to be hired into.
 
 ---
 
