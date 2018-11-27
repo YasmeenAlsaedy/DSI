@@ -40,8 +40,8 @@
 | ------------- | ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- | ------------------------------ | -------------------------------- |
 | 9:50 - 11:20  | **Project 1 Due** & [Intro to modelling - Lesson][3-1a]      | [Linear regression from scratch][3-2a]                 | [Regularisation lesson][3-3c]   | [Preprocessing & features scaling - lesson][3-3a] | [Regression Review][3-5b]   |
 | 11:20 - 12:30 | [Intro to modelling - Lab][3-1a]         | [Regression evaluation loss functions][3-2b]           | [Regularisation - Lab][3-3d]         | [Loss functions and regression - lab][3-3b]    |   Lab Time    |
-| 13:30 - 15:00 |  [Regression sklearn & statsmodels][3-1d]   | [Cross validation and train test split - lesson][3-2c] |   [Bias Variance - Lesson][3-4a]                 | [Dummy Variables - Lesson][3-5a] | Outcomes       |
-| 15:15 - 17:00 | [Simple linear regression Lab][3-1c]  | [Cross validation and train test split - lab][3-2d]    | [Bias Variance - Lab][3-4b]                   | Lab Time                              | [**Intro Project 2**](./projects/project-2)                      |
+| 13:30 - 15:00 |  [Regression sklearn & statsmodels][3-1d]   | [Cross validation and train test split - lesson][3-2c] |   [Bias Variance - Lesson][3-4a]                 | Outcomes  |  Lab Time     |
+| 15:15 - 17:00 | [Simple linear regression Lab][3-1c]  | [Cross validation and train test split - lab][3-2d]    | [Bias Variance - Lab][3-4b]                   | [Dummy Variables - Lesson][3-5a]             | [**Intro Project 2**](./projects/project-2)                      |
 
 
 ## Week 4: Intro to Logistic Regression
@@ -49,15 +49,15 @@
 | Session Time  | Day 1                                          | Day 2                                  | Day 3                                                  | Day 4                                                 | Day 5                                    |
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- |
 | 9:50 - 11:20  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
-| 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Object Oriented Programming - LR][4-5b] |
-| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] | Outcomes                                               | [Classification with multiple classes - Lab][4-4c]    | [Logistic Regression Review][4-5c]                            |
-| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    | Outcomes                                               | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                           | Jeopardy 2                               |
+| 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Logistic Regression Review][4-5c]  |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] |         [Object Oriented Programming - LR][4-5b]                                      | [Classification with multiple classes - Lab][4-4c]    |     [Statistics - Hypothesis testing][5-4a]                        |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    |                  Jeopardy 2                               | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                           |      Lab Time           | |
 
 ## Week 5: Databases, Apis, Web Scraping, Statistics
 
 | Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4 | Day 5 |
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
-| 09:50 - 11:20 | **Project 2 Due** & [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Intro-to-web-services - lab][5-3a]              | [Statistics - Hypothesis testing][5-4a]| [**Intro Project 3**](./projects/project-3)      |
+| 09:50 - 11:20 | **Project 2 Due** & [Intro to web scraping][5-1a]                    | [SQL - Pandas - Lab 1][5-2a]              | [Intro-to-web-services - lab][5-3a]              || [**Intro Project 3**](./projects/project-3)      |
 | 11:20 - 12:30 | [Intro to web services - lesson + lab][5-1b]     | [SQL - Pandas - Lab 2][5-2b]              | [database-sql-commands-together-lab][5-3b] | [Statistics - Bootstrapping][5-4b]     |  [Group project][5-5b]     |
 | 13:30 - 15:00 | [Databases - Fundamentals - Lesson][5-1c]        | [Intro to web scraping][5-2c]    | [python-webscraping-xpath-lesson][5-3c]          |[Tableau Intro][5-4c]    |   [Group project][5-5b]     |
 | 15:15 - 17:00 | [Connecting to Databases and SQL - Lesson][5-1d] | [Web scraping lab (Lincoln quotes)][5-2d] | [practice-postgres-sql][5-3d]                        | [Tableau Intro][5-4c]      |    [Group project][5-5b]    |
@@ -360,14 +360,6 @@
   * 21 - 29 Dec - No Classes
   * 7 Feb 2019 - Final
   Presentations
-  
-
-## Due Dates
-| Due Time      | Assignments                                     | Projects                                     | Optional Assignments                         |
-| ------------- | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| 18/11 9:00    | [lab-python-practice][1-2d] <br> [Lab_1-sales_data_lab][1-3c] <br> [Lab_2-python_movies_lab][1-4d]|      |[Introduction to Pandas Lab][2-1b] |
-| 25/11 9:00    |  [Lab 2 - Data cleaning][2-2d] <br> [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b] <br> [Lab - Pandas Data Munging Full Overview][2-4c]              |  [Project 1](./projects/project-1)      | [Linear algebra - Lab][1-4a] <br> [lab1-pandas-joining][2-2b] |
-| 02/12 9:00    |           |       | [Simple linear regression Lab][3-1c]  |
 
 ## Communication
   - You have been invited to the following Slack teams:
