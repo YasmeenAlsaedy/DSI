@@ -179,10 +179,11 @@
 [3-3b]: ./week03/day3_regularisation_feature_scaling/loss-functions-regression-lab-1
 [3-3c]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-lesson-2
 [3-3d]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-kobe-shots-lab-2
-
+[3-3d_1]: ./week03/day3_regularisation_and _bias_variance/regression-regularisation-kobe-shots-lab-2
 
 [3-4a]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lesson
 [3-4b]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lab
+[3-4b_1]: ./week03/day3_regularisation_and _bias_variance/bias-variance-tradeoff-lab
 
 [3-5a]: ./week03/day5_dummy_variables/dummy_variables_lesson
 [3-5b]: ./week03/day5_dummy_variables/regression-review
