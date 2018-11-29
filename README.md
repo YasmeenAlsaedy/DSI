@@ -180,7 +180,6 @@
 [3-3c]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-lesson-2
 [3-3d]: ./week03/day3_regularisation_feature_scaling/regression-regularisation-kobe-shots-lab-2
 
-
 [3-4a]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lesson
 [3-4b]: ./week03/day4_bias_variance_regularization/bias-variance-tradeoff-lab
 
@@ -361,6 +360,12 @@
   * 7 Feb 2019 - Final
   Presentations
 
+## Due Dates
+| Due Time      | Assignments                                     | Projects                                     | Optional Assignments                         |
+| ------------- | ----------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| 18/11 9:00    | [lab-python-practice][1-2d] <br> [Lab_1-sales_data_lab][1-3c] <br> [Lab_2-python_movies_lab][1-4d]|      |[Introduction to Pandas Lab][2-1b] |
+| 25/11 9:00    |  [Lab 2 - Data cleaning][2-2d] <br> [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b] <br> [Lab - Pandas Data Munging Full Overview][2-4c]              |  [Project 1](./projects/project-1)      | [Linear algebra - Lab][1-4a] <br> [lab1-pandas-joining][2-2b] |
+| 02/12 9:00    |  [Regularisation - Lab][3-3d] <br> [Bias Variance - Lab][3-4b] <br> [Loss functions and regression - lab][3-3b]         |       | [Simple linear regression Lab][3-1c]  |
 
 ## Communication
   - You have been invited to the following Slack teams:
