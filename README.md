@@ -22,7 +22,7 @@
 | 9:50 - 11:20  | Orientation              | [lesson-1-lists-and-dictionaries][1-2a]      | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |  [Linear algebra - Lesson][1-4a]       |  [lesson-1-github-pull-request-vs-branching][1-5a]                                      |
 | 11:20 - 12:30 | [Welcome to Data Science][1-1a]                    | [lesson-2-for-and-while-loops][1-2b]         | [Lesson_1-list_and_dictionary_comprehensions][1-3a] |   [Linear algebra - Lab][1-4a]          | [**Intro Project 1**](./projects/project-1) |
 | 13:30 - 15:00 |  [Command line lesson][1-1b]                   | [lesson-3-control-flows-and-functions][1-2c] | [Lesson_2-descriptive_statistics][1-3b]       |  MISK GLOBAL FORUM   |    [Lab_2-python_movies_lab][1-4d]                             |
-| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  [Lab_1-sales_data_lab][1-3c]                | MISK GLOBAL FORUM    |  Project Time      |
+| 15:15 - 17:00 |[Introduction to Github][1-1c] | [lab-python-practice][1-2d]                  |  [Lab_1-sales_data_lab][1-3c]                | MISK GLOBAL FORUM    |  Lab Time      |
 
 
 ## Week 2: Exploratory Data Analysis and Pandas
@@ -31,8 +31,8 @@
 | ------------- | -------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- | ----- | ----- |
 | 9:50 - 11:20  | [Introduction to Pandas Lessons][2-1a] | [lesson1-pandas-concatenation_joining_data][2-2a] | [Pandas Long vs Wide Format, Pivot & Melting Lesson][2-3a] |[Lesson - Probability Distributions][2-4a]       | [Lesson - Normal Distribution and Central Limit Theorem][2-4b]      |
 | 11:20 - 12:30 | [Introduction to Pandas Lab][2-1b]     | [lab1-pandas-joining][2-2b]                       | [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b]    |   [Lesson - Normal Distribution and Central Limit Theorem][2-4b]   | [Data visualisation - Lesson][1-4c]  &  [Pandas plotting reference][2-4d]  |
-| 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lesson - Confidence Intervals][2-5b] | Jeopardy 1 |       
-| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | [Lab - Pandas Data Munging Full Overview][2-4c]| Project Time |Project Time|
+| 13:30 - 15:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lesson 2 - Intro to data cleaning][2-2c]         | [Pandas grouping - Lesson][2-3c]|[Lesson - Confidence Intervals][2-5b] | Jeopardy I |       
+| 15:15 - 17:00 | [Basic EDA walkthrough - Lesson][2-1c] | [Lab 2 - Data cleaning][2-2d]                     | [Lab - Pandas Data Munging Full Overview][2-4c]| Lab Time |Lab Time|
 
 ## Week 3: Linear Regression
 
@@ -51,7 +51,7 @@
 | 9:50 - 11:20  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
 | 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Logistic Regression Review][4-5c]  |
 | 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] |         [Object Oriented Programming - LR][4-5b]                                      | [Classification with multiple classes - Lab][4-4c]    |     [Statistics - Hypothesis testing][5-4a]                        |
-| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    |                  Jeopardy 2                               | Lab Time                           |      Lab Time           | |
+| 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    |                  Jeopardy II                               | Lab Time                           |      Lab Time           | |
 
 ## Week 5: Databases, Apis, Web Scraping, Statistics
 
@@ -66,10 +66,10 @@
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4                      | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
-| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] | Jeopardy 3      |
-| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |  Project Time     |
-| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | [NLP Intro - Lab][6-4b]    | Project Time      |
-| 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            | Project Time                   | Project Time  |    |
+| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] |   Lightning Talks I    |
+| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |  Lightning Talks I     |
+| 13:30 - 15:00 | [Web scraping review][6-1c]     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
+| 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lab Time              | Lightning Talks I |    |
 
 ## Week 7: Unsupervised Learning Methods
 
@@ -77,51 +77,51 @@
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ---------------------------------- | ----- |
 | 09:50 - 11:20 | **Project 3 Due** & [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
 | 11:20 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | [PCA Faces - Lab][7-3c]                  | [DBSCAN - Lab][7-4b]               |       |
-| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |       ||
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | Outcomes    | [DBSCAN - Lab][7-4b]               |   **Intro Project 4**    |
+| 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |  Lab Time     | |
 
 ## Week 8: Bayesian Inference
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
 | 09:50 - 11:20 | [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
-| 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    |       |
-| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Outcomes            | [sklearn pipeline - lesson/lab][8-4c]     |       |
-| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Outcomes            | [Twitter api - case study][8-4d]          |       ||
+| 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    | Lab Time      |
+| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Lab Time           | [sklearn pipeline - lesson/lab][8-4c]     |  Jeopardy IV       |
+| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Lab Time           | [Twitter api - case study][8-4d]          |  Lab Time     ||
 
 ## Week 9: Time series analysis
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
 | 09:50 - 11:20 |[Time Series - Intro][9-1a]|[Autocorrelations - Lab][9-2a]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lab][9-3d]|[GARCH Models - Lesson][9-5a]|
-| 11:20 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]|[ARIMA - Lab 2][9-2d]|[VARMA - Lesson][9-4b]|[GARCH Models - Lab][9-5a]|
-| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lesson][9-3c]|[VARMA - Lab][9-4c]|Capstone|
-| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]|[Seasonal Arima - Lab][9-3d]|[VARMA - Lab][9-4c]|Capstone|
+| 11:20 - 12:30 |[Time Series datetime Lesson/Lab][9-1b]|[ARIMA - Lesson][9-2b]|Outcomes|[VARMA - Lesson][9-4b]|[GARCH Models - Lab][9-5a]|
+| 13:30 - 15:00 |[Time Series Resampling - Lab][9-1c]|[ARIMA - Lab 1][9-2c]|[Seasonal Arima - Lesson][9-3c]|[VARMA - Lab][9-4c]|Lab Time|
+| 15:15 - 17:00 |[Time Series Fitting - Lab][9-1d]|[ARIMA - Lab 2][9-2d]|[Seasonal Arima - Lab][9-3d]|[VARMA - Lab][9-4c]|Lab Time|
 
-## Week 10: Big data
-
-| Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
-| ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 | |[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lesson][10-2c]|[AWS Intro][10-4a]|[Hadoop - Lab][10-4d]|
-| 11:20 - 12:30 | |[Intro to Big Data - Lesson][10-2a]|[Intro to Spark - Lab][10-3b]|[AWS Intro][10-4a]|[Hive - Lab][10-5a]|
-| 13:30 - 15:00 | |[Intro to Spark - Lesson][10-2c]|Outcomes|[AWS Intro][10-4a]|Capstone|
-| 15:15 - 17:00 | |[Intro to Spark - Lesson][10-2c]|Outcomes|[Hadoop on AWS][10-4d]|Capstone|
-
-## Week 11: Advanced topics
+## Week 10: SVM & Neural Networks
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 |[Spark ML - Lesson][11-1a]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]|[Directed Networks - Lesson][11-5a]|
-| 11:20 - 12:30 |[Spark ML - Lab][11-1b]|[Support Vector Machines - Lab 2][11-2a]|[Flask on AWS - Lab][11-3a]|[Networks - Lesson][11-4a]|[Tube Network - Lab][11-5b]|
-| 13:30 - 15:00 |[Support Vector Machines - Lesson][11-1c]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|[Networks - Lab][11-4c]|Capstone|
-| 15:15 - 17:00 |[Support Vector Machines - Lab 1][11-1d]|[Flask - Lesson][11-2c]|[Support Vector Regression - Lab][11-3c]|Capstone|Capstone|
+| 09:50 - 11:20 |**Project 4 Due**|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lesson][11-4a]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
+| 11:20 - 12:30 |[Support Vector Machines - Lesson][11-1c]|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lab][11-4c]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
+| 13:30 - 15:00 |[Support Vector Machines - Lab 1][11-1d]|[Support Vector Regression - Lab][11-3c]|[Directed Networks - Lesson][11-5a]|[Tensorflow - Lesson][12-2a]|Jeopardy V|
+| 15:15 - 17:00 |Lab Time|Lab Time|[Tube Network - Lab][11-5b]|[Tensorflow - Lab][12-2b]|Lab Time|
 
-## Week 12: Advanced topics
+## Week 11: Big Data / Surprise?
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lesson][12-2a]|[Recommendation Systems Intro - Lesson][12-3a]|[Surprise - Lesson][12-4a]|Presentations|
-| 11:20 - 12:30 |[Neural Networks - Lesson][12-1a]|[Tensorflow - Lab][12-2b]|[Recommendation Systems Intro - Lesson][12-3a]|[Surprise - Lab][12-4a]|Presentations|
+| 09:50 - 11:20 |Lightning Talks II|[Intro to Big Data - Lesson][10-2a] |[AWS Intro][10-4a]|Surprise|Capstone|
+| 11:20 - 12:30 |Lightning Talks II|[Flask - Lesson][11-2c]| [Flask on AWS - Lab][11-3a]|Surprise|Capstone|
+| 13:30 - 15:00 |Lightning Talks II |[Flask - Lesson][11-2c]| Surprise |Surprise|Capstone|
+| 15:15 - 17:00 |Lightning Talks II |Outcomes |Surprise |Surprise | Capstone |
+
+## Week 12: Capstone Week
+
+| Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
+| ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
+| 09:50 - 11:20 |Suprise |Capstone|Capstone|Capstone|Presentations|
+| 11:20 - 12:30 |Suprise|Capstone|Capstone|Capstone|Presentations|
 | 13:30 - 15:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
 | 15:15 - 17:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
 
