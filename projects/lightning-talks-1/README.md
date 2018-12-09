@@ -8,9 +8,9 @@ Lightning Talks are an opportunity to review and present what you have learned o
 | HTML & CSS | 	Nasser Aldeen Aldawsari  |
 | Logistic regression | 	Nawal Alfallty |
 | Linear regression| 	Maimona Almarshd |
-| KNN	Muhammad | Hakami |
+| KNN	 | Muhammad Hakami |
 | Regularization	| Norah Altriri |
-| Git	Sultan |  alhuwairini |
+| Git	 |  Sultan alhuwairini |
 | Beautiful soup| 	NoufAl Qublan |
 | Selenium| 	Lujin  Felemban |
 | API| 	Furat Altukhaim |
