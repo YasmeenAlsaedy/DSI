@@ -5,7 +5,7 @@ Lightning Talks are an opportunity to review and present what you have learned o
 
 | Topic              | Student                |  
 | ------------------ | ---------------------- |
-| HTML & CSS | | Mortaja Alqassab  |
+| HTML & CSS | | 	Nasser Aldeen Aldawsari  |
 | Logistic regression | 	Nawal Alfallty |
 | Linear regression| 	Maimona Almarshd |
 | KNN	Muhammad | Hakami |
@@ -31,7 +31,7 @@ Lightning Talks are an opportunity to review and present what you have learned o
 | Adaboost| 	sultan almuhanna |
 | Groupby / Joining| 	Wejdan Almahmoud |
 | Probabilities / Confidence Intervals| 	Afnan Alomar |
-| Bias Variance Tradeoff| 	Nasser Aldeen Aldawsari |
+| Bias Variance Tradeoff| Mortaja Alqassab|
 | Feature Scaling | Mohammed Alosaimi ||
 
 
