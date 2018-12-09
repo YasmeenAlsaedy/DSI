@@ -32,6 +32,6 @@ Lightning Talks are an opportunity to review and present what you have learned o
 | Groupby / Joining| 	Wejdan Almahmoud |
 | Probabilities / Confidence Intervals| 	Afnan Alomar |
 | Bias Variance Tradeoff| 	Nasser Aldeen Aldawsari |
-| Feature Scaling	Mohammed | Alosaimi ||
+| Feature Scaling | Alosaimi ||
 
 
