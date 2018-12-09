@@ -20,9 +20,9 @@ Lightning Talks are an opportunity to review and present what you have learned o
 | Bootstrapping| 	Arwa Altayyar |
 | Recursion| 	Rasha Alshehri |
 | Python OOP| 	shebnam Zaid |
-| SQL| 	Abdulrahman Alzahrani |
+| SQL| Yasmeen Alsaedy  |
 | Gridsearch| 	Sarah AlSalman |
-| Central limit thereom	| Yasmeen Alsaedy |
+| Central limit thereom	| 	Abdulrahman Alzahrani |
 | Descriptive statistics| 	Khalid Al rasheed |
 | Hypothesis testing| 	Lama AlOud |
 | Regression metrics| 	ibrahim alowayyid |
