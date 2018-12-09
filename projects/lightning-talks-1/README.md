@@ -5,7 +5,7 @@ Lightning Talks are an opportunity to review and present what you have learned o
 
 | Topic              | Student                |  
 | ------------------ | ---------------------- |
-| HTML & CSS | | 	Nasser Aldeen Aldawsari  |
+| HTML & CSS | 	Nasser Aldeen Aldawsari  |
 | Logistic regression | 	Nawal Alfallty |
 | Linear regression| 	Maimona Almarshd |
 | KNN	Muhammad | Hakami |
