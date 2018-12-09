@@ -57,9 +57,9 @@
 
 | Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4 | Day 5 |
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
-| 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               | [SQL - Pandas - Lab 1][5-2a]              | [SQL - Pandas - Lab 2][5-2b] |[python-webscraping-xpath-lesson][5-3c]  | [**Intro Project 3**](./projects/project-3)      |
+| 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               | [SQL - Pandas - Lab 1][5-2a]              | [SQL - Pandas - Lab 2][5-2b] |[Tableau Intro][5-4c]     | [**Intro Project 3**](./projects/project-3)      |
 | 11:20 - 12:30 | [Connecting to Databases and SQL - Lesson][5-1d]        |  Intro to HTML and CSS             |  [database-sql-commands-together-lab][5-3b] | [Web scraping review][6-1c]  |  [Group project][5-5b]     |
-| 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | Outcomes        |[Tableau Intro][5-4c]    |   [Group project][5-5b]     |
+| 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | Outcomes        |Lab Time|   [Group project][5-5b]     |
 | 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)][5-2d] |  [practice-postgres-sql][5-3d]                   |  Lab Time     |    [Group project][5-5b]    |
 
 ## Week 6: Trees & Ensemble Methods, NLP
