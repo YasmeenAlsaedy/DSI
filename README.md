@@ -50,7 +50,7 @@
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- |
 | 9:50 - 11:20  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
 | 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Logistic Regression Review][4-5c]  |
-| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] |         [Object Oriented Programming - LR][4-5b]                                      | [Classification with multiple classes - Lab][4-4c]    |     [Statistics - Hypothesis testing][5-4a]                        |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] |         [Object Oriented Programming - LR][4-5b]                                      | [Classification with multiple classes - Lab][4-4c]    |Lab Time                       |
 | 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    |                  Jeopardy II                               | Lab Time                           |      Lab Time           | |
 
 ## Week 5: Databases, Apis, Web Scraping, Statistics
@@ -68,7 +68,7 @@
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
 | 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] |   Lightning Talks I    |
 | 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |  Lightning Talks I     |
-| 13:30 - 15:00 | Lab Time     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
+| 13:30 - 15:00 |      [Statistics - Hypothesis testing][5-4a] | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
 | 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lab Time              | Lightning Talks I |    |
 
 ## Week 7: Unsupervised Learning Methods
