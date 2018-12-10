@@ -368,8 +368,7 @@
 | 02/12 9:00    |  [Regularisation - Lab][3-3d] <br> [Bias Variance - Lab][3-4b] <br> Cross Validation Lab        |       | Loss functions Lab, Dummy Variables  |
 | 09/12 9:00    |  [KNN - Intro to classification - Lab][4-1b] <br> [Optimization Gridsearch Hyperparameters Lab][4-3b] <br> [Classification with multiple classes - Lab][4-4c]       |  [**Project 2**](./projects/project-2)     | [Logistic Regression - Lab][4-2b]  <br> [Classifier evaluation - Lab][4-2d]  |
 | 09/16 9:00    | Web scraping lab (Lincoln quotes) <br/> database-sql-commands-together-lab <br/> Intro-to-web-services - lab     |       | SQL 1  <br> SQL 2  |
-
-
+| 09/20 9:00    |     |   Lightning Talks I    |  |
 
 ## Communication
   - You have been invited to the following Slack teams:
