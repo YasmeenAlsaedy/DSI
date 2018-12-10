@@ -1,32 +1,37 @@
 
 ### Lightning Talks I
 
-Lightning Talks are an opportunity to review and present what you have learned over the course thus far. Each Lightning talk should be around 10-15 minutes long and you will present the topic to whole class with the assumption that they are entirely new to the subject - just like you once were. You will be randomly assigned a topic as the data approaches. If your topic is more code oriented, feel free to do a code along - if your topic is more theory, please create a slide deck. You can view an example Lightning Talk for NLP [HERE](./example)
+Lightning Talks are an opportunity to review and present what you have learned over the course thus far. Each Lightning talk should be around 6-8 minutes long and you will present the topic to whole class with the assumption that they are entirely new to the subject - just like you once were. You will be randomly assigned a topic as the data approaches. If your topic is more code oriented, feel free to do a code along - if your topic is more theory, please create a slide deck. You can view an example Lightning Talk for NLP [HERE](./example)
 
 | Topic              | Student                |  
 | ------------------ | ---------------------- |
-| Pandas             |                        |
-| HTML & CSS         |                        |
-| Logistic regression|                        |
-| Linear regression  |                        |
-| KNN                |                        |
-| Regularization     |                        |
-| Git                |                        |
-| Beautiful soup     |                        |
-| Selenium           |                        |
-| APIs               |                        |
-| NLP                |                        |
-| Feature engineering|                        |
-| Visualization tools|                        |
-| SVM	               |                        |
-| CARTs              |                        |
-| Gradient descent   |                        |
-| Time data & Autocorrelation|                |
-| Recursion          |                        |
-| Python OOP         |                        |
-| Naive Bayes        |                        |
-| Central limit thereom|                      |
-| Descriptive statistics|                     |
-| Hypothesis testing |                        |
-| Regression metrics |                        |
-| Classification metrics |                    ||
+| HTML & CSS | 	Nasser Aldeen Aldawsari  |
+| Logistic regression | 	Nawal Alfallty |
+| Linear regression| 	Maimona Almarshd |
+| KNN	 | Muhammad Hakami |
+| Regularization	| Norah Altriri |
+| Git	 |  Sultan alhuwairini |
+| Beautiful soup| 	NoufAl Qublan |
+| Selenium| 	Lujin  Felemban |
+| API| 	Furat Altukhaim |
+| NLP	| Fatimah Alabbad |
+| Feature engineering| 	khawlah alawaji |
+| Visualization tools| 	Omar Saleh |
+| Bootstrapping| 	Arwa Altayyar |
+| Recursion| 	Rasha Alshehri |
+| Python OOP| 	shebnam Zaid |
+| SQL| Yasmeen Alsaedy  |
+| Gridsearch| 	Sarah AlSalman |
+| Central limit thereom	| 	Abdulrahman Alzahrani |
+| Descriptive statistics| 	Khalid Al rasheed |
+| Hypothesis testing| 	Lama AlOud |
+| Regression metrics| 	ibrahim alowayyid |
+| Classification metrics| 	Mashael Al-Sanad |
+| Decision Trees| 	Farah Albibi |
+| Adaboost| 	sultan almuhanna |
+| Groupby / Joining| 	Wejdan Almahmoud |
+| Probabilities / Confidence Intervals| 	Afnan Alomar |
+| Bias Variance Tradeoff| Mortaja Alqassab|
+| Feature Scaling | Mohammed Alosaimi ||
+
+
