@@ -60,7 +60,7 @@
 | 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               |  Outcomes                |  [SQL - Pandas - Lab 1][5-2a]  |[Tableau Intro][5-4c]     | [**Intro Project 3**](./projects/project-3)      |
 | 11:20 - 12:30 | [Connecting to Databases and SQL - Lesson][5-1d]        |  Intro to HTML and CSS             |  [database-sql-commands-together-lab][5-3b] | [Web scraping review][6-1c]  |  [Group project][5-5b]     |
 | 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | [SQL - Pandas - Lab 2][5-2b]    |Lab Time|   [Group project][5-5b]     |
-| 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)][5-2d] |  [practice-postgres-sql][5-3d]                   |  Lab Time    |    [Group project][5-5b]    |
+| 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)] Selenium Lab[5-2d] |  [practice-postgres-sql][5-3d]                   |  Lab Time    |    [Group project][5-5b]    |
 
 ## Week 6: Trees & Ensemble Methods, NLP
 
@@ -367,7 +367,7 @@
 | 25/11 9:00    |  [Lab 2 - Data cleaning][2-2d] <br> [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b] <br> [Lab - Pandas Data Munging Full Overview][2-4c]              |  [Project 1](./projects/project-1)      | [Linear algebra - Lab][1-4a] <br> [lab1-pandas-joining][2-2b] |
 | 02/12 9:00    |  [Regularisation - Lab][3-3d] <br> [Bias Variance - Lab][3-4b] <br> Cross Validation Lab        |       | Loss functions Lab, Dummy Variables  |
 | 09/12 9:00    |  [KNN - Intro to classification - Lab][4-1b] <br> [Optimization Gridsearch Hyperparameters Lab][4-3b] <br> [Classification with multiple classes - Lab][4-4c]       |  [**Project 2**](./projects/project-2)     | [Logistic Regression - Lab][4-2b]  <br> [Classifier evaluation - Lab][4-2d]  |
-| 09/16 9:00    | Web scraping lab (Lincoln quotes) <br/> database-sql-commands-together-lab <br/> Intro-to-web-services - lab     |       | SQL 1  <br> SQL 2  |
+| 09/16 9:00    | Selenium Lab <br/> database-sql-commands-together-lab <br/> Intro-to-web-services - lab     |       | SQL 1  <br> SQL 2  |
 | 09/20 9:00    |     |   Lightning Talks I    |  |
 
 ## Communication
