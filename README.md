@@ -50,17 +50,17 @@
 | ------------- | ---------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ---------------------------------------- |
 | 9:50 - 11:20  | [KNN - Intro to classification - Lesson][4-1a] | [Logistic regression - Lesson][4-2a]   | [Optimization Gridsearch Hyperparameters Lesson][4-3a] | [Classification scores - Lab][4-4a]                   | [DIY KNN - Lab][4-5a]                    |
 | 11:20 - 12:30 | [KNN - Intro to classification - Lab][4-1b]    | [Logistic Regression - Lab][4-2b]      | [Optimization Gridsearch Hyperparameters Lab][4-3b]    | [Classification with multiple classes - Lesson][4-4b] | [Logistic Regression Review][4-5c]  |
-| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] |         [Object Oriented Programming - LR][4-5b]                                      | [Classification with multiple classes - Lab][4-4c]    |     [Statistics - Hypothesis testing][5-4a]                        |
+| 13:30 - 15:00 | [KNN - Imputation - Lab][4-1c]                 | [Classifier evaluation - Lesson][4-2c] |         [Object Oriented Programming - LR][4-5b]                                      | [Classification with multiple classes - Lab][4-4c]    |Lab Time                       |
 | 15:15 - 17:00 | [Introduction to OOP][4-1d]                    | [Classifier evaluation - Lab][4-2d]    |                  Jeopardy II                               | Lab Time                           |      Lab Time           | |
 
 ## Week 5: Databases, Apis, Web Scraping, Statistics
 
 | Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4 | Day 5 |
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
-| 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               | [SQL - Pandas - Lab 1][5-2a]              | [SQL - Pandas - Lab 2][5-2b] |[python-webscraping-xpath-lesson][5-3c]  | [**Intro Project 3**](./projects/project-3)      |
+| 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               |  Outcomes                |  [SQL - Pandas - Lab 1][5-2a]  |[Tableau Intro][5-4c]     | [**Intro Project 3**](./projects/project-3)      |
 | 11:20 - 12:30 | [Connecting to Databases and SQL - Lesson][5-1d]        |  Intro to HTML and CSS             |  [database-sql-commands-together-lab][5-3b] | [Web scraping review][6-1c]  |  [Group project][5-5b]     |
-| 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | Outcomes        |[Tableau Intro][5-4c]    |   [Group project][5-5b]     |
-| 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)][5-2d] |  [practice-postgres-sql][5-3d]                   |  Lab Time     |    [Group project][5-5b]    |
+| 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | [SQL - Pandas - Lab 2][5-2b]    |Lab Time|   [Group project][5-5b]     |
+| 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)][5-2d] |  [practice-postgres-sql][5-3d]                   |  Lab Time    |    [Group project][5-5b]    |
 
 ## Week 6: Trees & Ensemble Methods, NLP
 
@@ -68,7 +68,7 @@
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
 | 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] |   Lightning Talks I    |
 | 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |  Lightning Talks I     |
-| 13:30 - 15:00 | Lab Time     | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
+| 13:30 - 15:00 |      [Statistics - Hypothesis testing][5-4a] | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
 | 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lab Time              | Lightning Talks I |    |
 
 ## Week 7: Unsupervised Learning Methods
@@ -367,6 +367,8 @@
 | 25/11 9:00    |  [Lab 2 - Data cleaning][2-2d] <br> [Pandas Long vs Wide Format, Pivot & Melting Lab][2-3b] <br> [Lab - Pandas Data Munging Full Overview][2-4c]              |  [Project 1](./projects/project-1)      | [Linear algebra - Lab][1-4a] <br> [lab1-pandas-joining][2-2b] |
 | 02/12 9:00    |  [Regularisation - Lab][3-3d] <br> [Bias Variance - Lab][3-4b] <br> Cross Validation Lab        |       | Loss functions Lab, Dummy Variables  |
 | 09/12 9:00    |  [KNN - Intro to classification - Lab][4-1b] <br> [Optimization Gridsearch Hyperparameters Lab][4-3b] <br> [Classification with multiple classes - Lab][4-4c]       |  [**Project 2**](./projects/project-2)     | [Logistic Regression - Lab][4-2b]  <br> [Classifier evaluation - Lab][4-2d]  |
+| 09/16 9:00    | Web scraping lab (Lincoln quotes) <br/> database-sql-commands-together-lab <br/> Intro-to-web-services - lab     |       | SQL 1  <br> SQL 2  |
+| 09/20 9:00    |     |   Lightning Talks I    |  |
 
 ## Communication
   - You have been invited to the following Slack teams:
