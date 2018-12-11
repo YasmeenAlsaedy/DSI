@@ -57,19 +57,19 @@
 
 | Session Time  | Day 1                                            | Day 2                                     | Day 3                                       | Day 4 | Day 5 |
 | ------------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------- | ----- | ----- |
-| 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               |  Outcomes                |  [SQL - Pandas - Lab 1][5-2a]  |[Tableau Intro][5-4c]     | [**Intro Project 3**](./projects/project-3)      |
-| 11:20 - 12:30 | [Connecting to Databases and SQL - Lesson][5-1d]        |  Intro to HTML and CSS             |  [database-sql-commands-together-lab][5-3b] | [Web scraping review][6-1c]  |  [Group project][5-5b]     |
-| 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | [SQL - Pandas - Lab 2][5-2b]    |Lab Time|   [Group project][5-5b]     |
-| 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)] Selenium Lab[5-2d] |  [practice-postgres-sql][5-3d]                   |  Lab Time    |    [Group project][5-5b]    |
+| 09:50 - 11:20 | **Project 2 Due**  &  [Databases - Fundamentals - Lesson][5-1c]               |  Outcomes                |  [SQL - Pandas - Lab 1][5-2a]  | [Tableau Intro][5-4c]     | [**Intro Project 3**](./projects/project-3)      |
+| 11:20 - 12:30 | [Connecting to Databases and SQL - Lesson][5-1d]        |  Intro to HTML and CSS             |  [database-sql-commands-together-lab][5-3b] |  Lab Time  |  [Group project][5-5b]     |
+| 13:30 - 15:00 | [Intro to web services - lesson + lab][5-1b]  | [Intro to web scraping][5-2c]    | [Web scraping review][6-1c] & [SQL - Pandas - Lab 2][5-2b]    | [Statistics - Hypothesis testing][5-4a] |   [Group project][5-5b]     |
+| 15:15 - 17:00 | [Intro-to-web-services - lab][5-3a]               | [Web scraping lab (Lincoln quotes)][5-2d] & Selenium Lab|  Lab Time     |  Lab Time    |    [Group project][5-5b]    |
 
 ## Week 6: Trees & Ensemble Methods, NLP
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4                      | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
-| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   | [NLP Intro - Lesson][6-4a] |   Lightning Talks I    |
-| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         | [NLP Intro - Lab][6-4b]    |  Lightning Talks I     |
-| 13:30 - 15:00 |      [Statistics - Hypothesis testing][5-4a] | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
-| 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lab Time              | Lightning Talks I |    |
+| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   |  Jeopardy III |  [NLP Intro - Lesson][6-4a]    |
+| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |  Lab Time   |  [NLP Intro - Lab][6-4b]     |
+| 13:30 - 15:00 |   Lab Time | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Lightning Talks I     | Lightning Talks I     |
+| 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lightning Talks I              | Lightning Talks I |    |
 
 ## Week 7: Unsupervised Learning Methods
 
