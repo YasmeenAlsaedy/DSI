@@ -66,10 +66,10 @@
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                             | Day 4                      | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | --------------------------------- | -------------------------- | ----- |
-| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   |  Lightning Talks I |  [NLP Intro - Lesson][6-4a]    |
-| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |  Lightning Talks I    |  [NLP Intro - Lab][6-4b]     |
-| 13:30 - 15:00 |   Lab Time | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Jeopardy III    | Lightning Talks I     |
-| 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lab Time              | Lightning Talks I |    |
+| 09:50 - 11:20 | [Decision Trees - lesson][6-1a] | [Statistics - Bootstrapping][5-4b] | [Multithreading - Lesson][6-3a]   |  Jeopardy III |  [NLP Intro - Lesson][6-4a]    |
+| 11:20 - 12:30 | [Decision Trees - lab1][6-1b]   | [Ensemble methods - Lesson][6-2b]  | [Adaboost - Lesson][6-3b]         |  Lab Time   |  [NLP Intro - Lab][6-4b]     |
+| 13:30 - 15:00 |   Lab Time | [Bagging - Lab][6-2c]              | [Decision Trees OOP - lab2][6-3c] | Lightning Talks I     | Lightning Talks I     |
+| 15:15 - 17:00 | [**Intro Capstone project Part  - Outline Due**](./projects/project-capstone/part-01)                                | [Random Forest - Lab][6-2d]        | [Adaboost - Lab][6-3d]            |    Lightning Talks I              | Lightning Talks I |    |
 
 ## Week 7: Unsupervised Learning Methods
 
