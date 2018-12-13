@@ -1,8 +1,6 @@
-# Project 2 - Ames Housing Data and Kaggle Challenges
+# Project 3 - Ames Housing Data and Kaggle Challenges
 
-Due Date: **2 September 2018 at 0900** Submissions must be in by 23:59 on 1 September 2018.
-
-Welcome to Project 2! It's time to start modeling. The goal for this project is
+Welcome to Project 3! It's time to start modeling. The goal for this project is
 two-fold:
 
 1. Creating and iteratively refining regression and classification models
