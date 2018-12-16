@@ -10,6 +10,9 @@ This deliverable will provide you with guidance to help you select an awesome to
 
 **Goal**: Edit README by describing *at least two* project proposals, including associated data, goals, audiences, and metrics.
 
+Here are some ideas: 
+https://docs.google.com/document/d/1m7JotdnRb2LfXCUl_NhshrrhAwV29XXjSa90aHc7fF8/edit?usp=sharing
+
 ---
 
 ## Requirements
