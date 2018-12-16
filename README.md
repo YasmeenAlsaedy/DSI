@@ -75,7 +75,7 @@
 
 | Session Time  | Day 1                           | Day 2                              | Day 3                                    | Day 4                              | Day 5 |
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ---------------------------------- | ----- |
-| 09:50 - 11:20 | **Project 3 Due** & [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
+| 09:50 - 11:20 |  [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
 | 11:20 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
 | 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | Outcomes    | [DBSCAN - Lab][7-4b]               |   **Intro Project 4**    |
 | 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |  Lab Time     | |
@@ -84,7 +84,7 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 | [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
+| 09:50 - 11:20 | **Project 3 Due** & [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
 | 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    | Lab Time      |
 | 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Lab Time           | [sklearn pipeline - lesson/lab][8-4c]     |  Jeopardy IV       |
 | 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Lab Time           | [Twitter api - case study][8-4d]          |  Lab Time     ||
