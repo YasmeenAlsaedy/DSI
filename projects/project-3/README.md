@@ -1,58 +1,69 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3
-# Regression and classification with housing data
+# Project 3 - Ames Housing Data and Kaggle Challenges
 
-## Business Case
+Welcome to Project 3! It's time to start modeling. The goal for this project is
+two-fold:
 
-You work for a real estate company interested in using data science to determine the best properties to buy and re-sell. Specifically, your company would like to identify the characteristics of residential houses that estimate the sale price and the cost-effectiveness of doing renovations.
+1. Creating and iteratively refining regression and classification models
+2. Using [Kaggle](https://www.kaggle.com/) to practice the modeling process
 
-There are three components to the project:
+You are tasked with creating two models with the highest possible accuracy based on the Ames Housing Dataset. Those models will predict the following:
 
-1. Estimate the sale price of properties based on their "fixed" characteristics, such as neighborhood, lot size, number of stories, etc.
-2. Estimate the value of possible changes and renovations to properties from the variation in sale price not explained by the fixed characteristics. Your goal is to estimate the potential return on investment (and how much you should be willing to pay contractors) when making specific improvements to properties.
-3. Determine the features in the housing data that best predict "abnormal" sales (forclosures, etc.).
+- The price of a house at sale (regression)
+- Whether a house sale was abnormal or not (classification)
 
-This project uses the [Ames housing data recently made available on kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses. While the two models you make will predict different targets (and will require different features, model choices, and hyperparameters), you will be able to use the rich knowledge you develop from generating one model to help inform the other (and vice versa!)
 
----
+Secondly, we are hosting two competitions on Kaggle (one for the regression and one for the classification) to give you the opportunity to practice the following skills:
 
-## Directions
+- Refining models over time
+- Use of train-test split, cross-validation, and data with unknown values for the target to simulate the modeling process
+- The use of Kaggle as a place to practice data science
 
-Though the housing data for this project is very rich, it is not trivial to clean and prepare for modeling. Good EDA, cleaning, and feature engineering will be critical to the success of your models. Always remember to think critically about the data before modeling. The computer can't be the researcher for you!
+## Set-up
 
-The first two parts of the project are regression problems. There are potentially hundreds of features and plenty of multicollinearity, so regularization is definitely recommended.
+Before you begin working on this project, please do the following:
 
-The second question involves fitting a regression on the residuals of the first model. This is a practice that "covaries out" any effects of the predictors in the first model before investigating the effects of predictors in the second model.
+1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
+2. **IMPORTANT**: Click these links ([Regression Challenge Sign Up](https://www.kaggle.com/t/652d47357d0c484b93045a47b86009ab) and [Classification Challenge Sign Up](https://www.kaggle.com/t/4a7340431eab4058a4da9b91f67fe8ea)) to **join** the competition (otherwise you will not be able to make submissions!)
+3. Review the material on the [DSI-MiSK-02 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression/overview)
+4. Review the material on the [DSI-MiSK-02 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification/overview)
 
-The third section of the project is more challenging and involves dealing with significant class imbalance. This is a common and tricky problem in real-world classification tasks. We leave it up to you to decide how you want to tackle this problem and devise a solution, and highly recommend doing your own research into the topic.
+## The Modeling Process
 
-We will be looking for the following things:
+1. The train and test datasets for both challenges are the **same**, with the exception of the target that you are trying to predict.
+2. The train dataset has all of the columns that you will need to generate and refine your models. The test dataset has all of those columns except for the two targets that you are trying to predict in your Regression and Classification models.
+3. Generate your regression and classification models using the training data. We expect that within this process, you'll be making use of:
+    - train-test split
+    - cross-validation / grid searching for hyperparameters
+    - strong exploratory data analysis to question correlation and relationship across predictive variables
+    - code that reproducibly and consistently applies feature transformation (such as the preprocessing library)
+4. Predict the values for your target columns in the test dataset and submit your predictions to Kaggle to see how your model does against unknown data.
+    - **Note**: Kaggle expects to see your submissions in a specific format. Check each challenge's page to make sure you are formatting your files correctly!
 
-- Detailed EDA with justification for the steps. Visualize your data with pandas, matplotlib, or other plotting libraries. Explain the variables you choose for your models.
-- Detail your choice of regression and classification models for the task. Include Markdown explaining your justification, results, and interpretation of your models. Make sure your code is clean and clear.
-- Remember to frame your results according to your goals outlined in the project prompts.
+## Submission Checklist
 
----
+We expect the following to be submitted by end of day on the due date.
 
-## Requirements
-
-- Materials must be in a clearly commented Jupyter notebook
-- You should demonstrate the ability to:
-
-1. Analyze a complex dataset & explicitly state your assumptions.
-2. Clean, impute, and explore the dataset.
-3. Justify your modeling choices and feature engineering.
-4. Plot, visualize, and interpret your data logically.
-5. Clearly outline your modeling strategy in response to the questions
-6. Explain your results to a technical audience.
-
----
+1. Your code for the regression and classification models, including your exploratory data analysis. Add your (well organized!) notebooks to this repository and submit a pull request.
+2. At least one successful prediction submission on [DSI-MiSK-01 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/https://www.kaggle.com/c/dsi-misk-01-regression/leaderboard)" tab.
+3. At least one successful prediction submission on [DSI-MiSK-01 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification) -- you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-misk-01-classification/leaderboard)" tab.
+4. Check the Project Feedback + Evaluation section (below) to ensure that you know what will factor into the evaluation of your work.
 
 ## Project Feedback + Evaluation
 
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements:**
+For all projects, students will be evaluated on a simple 4 point scale (0-3 inclusive). Instructors will use this rubric when scoring student performance on each of the core project requirements:
 
 Score | Expectations
 ----- | ------------
-**0** | _Incomplete_
-**1** | _Does not meet expectations_
-**2** | _Meets expectations, good job!_
+**0** | _Does not meet expectations. Try again._
+**1** | _Approaching expectations. Getting there..._
+**2** | _Meets expecations. Great job._
+**3** | _Surpasses expectations. Brilliant!_
+
+For Project 2 the evaluation categories are as follows:
+
+- **Organization**:	Clearly commented, annotated and sectioned Jupyter notebook or Python script. Comments and annotations add clarity, explanation and intent to the work. Notebook is well-structured with title, author and sections. Assumptions are stated and justified.
+- **Exploratory Data Analysis**: A thorough exploratory data analysis has been conducted. Descriptive statistics, univariate and bivariate analysis, and plotting are skillfully used to explore connections across the dataset between features and targets.
+- **Modeling Process**: Skillful and correct use of cross-validation, grid search, and goodness-of-fit metrics to evaluate candidate models. Assumptions and decisions in the modeling process are stated and justified. Use of correct modeling techniques in each challenge. Data is reproducibly and reliably transformed between training and test datasets.
+- **Regression Challenge Submission**: Student has made at least one successful submission to the [DSI-MiSK-01 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression)
+- **Classification Challenge Submission**: Student has made at least one successful submission to the [DSI-MiSK-01 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification)
