@@ -25,8 +25,8 @@ Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click these links ([Regression Challenge Sign Up](https://www.kaggle.com/t/652d47357d0c484b93045a47b86009ab) and [Classification Challenge Sign Up](https://www.kaggle.com/t/4a7340431eab4058a4da9b91f67fe8ea)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-MiSK-02 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression/overview)
-4. Review the material on the [DSI-MiSK-02 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification/overview)
+3. Review the material on the [DSI-MiSK-02 Regression Challenge](https://www.kaggle.com/c/dsi-regression/overview)
+4. Review the material on the [DSI-MiSK-02 Classification Challenge](https://www.kaggle.com/c/dsi-classification/overview)
 
 ## The Modeling Process
 
@@ -50,8 +50,8 @@ We expect the following to be submitted by end of day on the due date.
 [Create a Classification Team](https://www.kaggle.com/c/dsi-classification/team)
 
 1. Your code for the regression and classification models, including your exploratory data analysis. Add your (well organized!) notebooks to this repository and submit a pull request. **ONE IS FINE PER TEAM** Scrum Leader
-2. At least one successful prediction submission on [DSI-MiSK-01 Regression Challenge](https://www.kaggle.com/c/dsi-regression) --  you should see your team name in the "[Leaderboard](https://www.kaggle.com/c/dsi-regression/leaderboard)" tab.
-3. At least one successful prediction submission on [DSI-MiSK-01 Classification Challenge](https://www.kaggle.com/c/dsi-classification/) -- you should see your team name in the "[Leaderboard](https://www.kaggle.com/c/dsi-classification/leaderboard)" tab.
+2. At least one successful prediction submission on [DSI-MiSK Regression Challenge](https://www.kaggle.com/c/dsi-regression) --  you should see your team name in the "[Leaderboard](https://www.kaggle.com/c/dsi-regression/leaderboard)" tab.
+3. At least one successful prediction submission on [DSI-MiSK Classification Challenge](https://www.kaggle.com/c/dsi-classification/) -- you should see your team name in the "[Leaderboard](https://www.kaggle.com/c/dsi-classification/leaderboard)" tab.
 4. Check the Project Feedback + Evaluation section (below) to ensure that you know what will factor into the evaluation of your work.
 
 ## Project Feedback + Evaluation
