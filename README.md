@@ -379,7 +379,7 @@
 | 16/12 9:00    | Selenium Lab <br/> database-sql-commands-together-lab <br/> Intro-to-web-services - lab     |       | SQL 1  <br> SQL 2  |
 | 19/12 9:00    |     |   Lightning Talks I    |  |
 | 30/12 9:00    | [Decision Trees - lab1][6-1b] <br> [Random Forest - Lab][6-2d] <br> [NLP Intro - Lab][6-4b]    |       |  |
-| 06/01 9:00    |     | Project 3      |  |
+| 06/01 9:00    |  [PCA Intro - Lab][7-1c]<br/>[Intro to Kmeans - Lab][7-2b]<br/>[Battle of clusterers - Lab][7-4d]  | Project 3      |  |
 ## Communication
   - You have been invited to the following Slack teams:
     - [Misk Academy Slack](https://miskacademy.slack.com)
