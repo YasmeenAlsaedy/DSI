@@ -25,8 +25,8 @@ Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click these links ([Regression Challenge Sign Up](https://www.kaggle.com/t/652d47357d0c484b93045a47b86009ab) and [Classification Challenge Sign Up](https://www.kaggle.com/t/4a7340431eab4058a4da9b91f67fe8ea)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-MiSK-02 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression/overview)
-4. Review the material on the [DSI-MiSK-02 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification/overview)
+3. Review the material on the [DSI-MiSK-02 Regression Challenge](https://www.kaggle.com/c/dsi-regression/overview)
+4. Review the material on the [DSI-MiSK-02 Classification Challenge](https://www.kaggle.com/c/dsi-classification/overview)
 
 ## The Modeling Process
 
@@ -44,9 +44,14 @@ Before you begin working on this project, please do the following:
 
 We expect the following to be submitted by end of day on the due date.
 
-1. Your code for the regression and classification models, including your exploratory data analysis. Add your (well organized!) notebooks to this repository and submit a pull request.
-2. At least one successful prediction submission on [DSI-MiSK-01 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/https://www.kaggle.com/c/dsi-misk-01-regression/leaderboard)" tab.
-3. At least one successful prediction submission on [DSI-MiSK-01 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification) -- you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsi-misk-01-classification/leaderboard)" tab.
+** You should first create on Kaggle with all your group members for btoh competitions:**
+
+[Create a Regression Team](https://www.kaggle.com/c/dsi-regression/team)<br/>
+[Create a Classification Team](https://www.kaggle.com/c/dsi-classification/team)
+
+1. Your code for the regression and classification models, including your exploratory data analysis. Add your (well organized!) notebooks to this repository and submit a pull request. **ONE IS FINE PER TEAM** Scrum Leader
+2. At least one successful prediction submission on [DSI-MiSK Regression Challenge](https://www.kaggle.com/c/dsi-regression) --  you should see your team name in the "[Leaderboard](https://www.kaggle.com/c/dsi-regression/leaderboard)" tab.
+3. At least one successful prediction submission on [DSI-MiSK Classification Challenge](https://www.kaggle.com/c/dsi-classification/) -- you should see your team name in the "[Leaderboard](https://www.kaggle.com/c/dsi-classification/leaderboard)" tab.
 4. Check the Project Feedback + Evaluation section (below) to ensure that you know what will factor into the evaluation of your work.
 
 ## Project Feedback + Evaluation
@@ -65,5 +70,5 @@ For Project 2 the evaluation categories are as follows:
 - **Organization**:	Clearly commented, annotated and sectioned Jupyter notebook or Python script. Comments and annotations add clarity, explanation and intent to the work. Notebook is well-structured with title, author and sections. Assumptions are stated and justified.
 - **Exploratory Data Analysis**: A thorough exploratory data analysis has been conducted. Descriptive statistics, univariate and bivariate analysis, and plotting are skillfully used to explore connections across the dataset between features and targets.
 - **Modeling Process**: Skillful and correct use of cross-validation, grid search, and goodness-of-fit metrics to evaluate candidate models. Assumptions and decisions in the modeling process are stated and justified. Use of correct modeling techniques in each challenge. Data is reproducibly and reliably transformed between training and test datasets.
-- **Regression Challenge Submission**: Student has made at least one successful submission to the [DSI-MiSK-01 Regression Challenge](https://www.kaggle.com/c/dsi-misk-01-regression)
-- **Classification Challenge Submission**: Student has made at least one successful submission to the [DSI-MiSK-01 Classification Challenge](https://www.kaggle.com/c/dsi-misk-01-classification)
+- **Regression Challenge Submission**: Student has made at least one successful submission to the [DSI-MiSK Regression Challenge](https://www.kaggle.com/c/dsi-regression)
+- **Classification Challenge Submission**: Student has made at least one successful submission to the [DSI-MiSK- Classification Challenge](https://www.kaggle.com/c/dsi-classification)
