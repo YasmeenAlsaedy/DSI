@@ -86,7 +86,7 @@
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
 | 09:50 - 11:20 | **Project 3 Due** & [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
 | 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    | Lab Time      |
-| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Capstone Demos           | [sklearn pipeline - lesson/lab][8-4c]     |  Jeopardy IV       |
+| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | **Capstone Part 2 Due** & Capstone Demos           | [sklearn pipeline - lesson/lab][8-4c]     |  Jeopardy IV       |
 | 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Lab Time           | [Twitter api - case study][8-4d]          |  Lab Time     ||
 
 ## Week 9: Time series analysis
@@ -102,7 +102,7 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 |**Project 4 Due**|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lesson][11-4a]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
+| 09:50 - 11:20 |**Project 4 Due & Capstone Part 3 Due**|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lesson][11-4a]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
 | 11:20 - 12:30 |[Support Vector Machines - Lesson][11-1c]|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lab][11-4c]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
 | 13:30 - 15:00 |[Support Vector Machines - Lab 1][11-1d]|[Support Vector Regression - Lab][11-3c]|[Directed Networks - Lesson][11-5a]|[Tensorflow - Lesson][12-2a]|Jeopardy V|
 | 15:15 - 17:00 |Lab Time|Lab Time|[Tube Network - Lab][11-5b]|[Tensorflow - Lab][12-2b]|Lab Time|
@@ -120,10 +120,10 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 |Suprise |Capstone|Capstone|Capstone|Presentations|
-| 11:20 - 12:30 |Suprise|Capstone|Capstone|Capstone|Presentations|
-| 13:30 - 15:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
-| 15:15 - 17:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
+| 09:50 - 11:20 |Suprise |Capstone|Capstone| **Capstone Part 4/5 Due** & Presentations|Presentations|
+| 11:20 - 12:30 |Suprise|Capstone|Capstone|Presentations|Presentations|
+| 13:30 - 15:00 |Capstone|Capstone|Capstone|Presentations|Presentations|
+| 15:15 - 17:00 |Capstone|Capstone|Capstone|Presentations|Wrap Up|
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
