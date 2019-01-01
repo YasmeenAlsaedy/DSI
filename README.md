@@ -77,7 +77,7 @@
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ---------------------------------- | ----- |
 | 09:50 - 11:20 |  [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
 | 11:20 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | Outcomes    | [DBSCAN - Lab][7-4b]               |   **Intro Project 4**    |
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | Lab Time    | [DBSCAN - Lab][7-4b]               |   **Intro Project 4**    |
 | 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |  Lab Time     | |
 
 ## Week 8: Bayesian Inference
@@ -86,7 +86,7 @@
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
 | 09:50 - 11:20 | **Project 3 Due** & [Intro to bayesian stats - Lesson][8-1a] |[Naive Bayes - Lesson][8-1c]  |[NLP - sentiment analysis - lesson][8-4b] | [sklearn pipeline - lesson/lab][8-4c]   |   Jeopardy IV     |
 | 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Naive Bayes - Lab][8-1d]     | [NLP - sentiment analysis - lab][8-4b]  | [Twitter api - case study][8-4d]  | Lab Time      |
-| 13:30 - 15:00 |   Lab Time            | [Bayes Recap - Lab][8-2c]            | **Capstone Part 2 Due** & Capstone Demos           | [Bayesian AB testing - Lab][8-5a]  |  Lab Time      |
+| 13:30 - 15:00 |   Outcomes            | [Bayes Recap - Lab][8-2c]            | **Capstone Part 2 Due** & Capstone Demos           | [Bayesian AB testing - Lab][8-5a]  |  Lab Time      |
 | 15:15 - 17:00 |   Lab Time     |  Lab Time    | Lab Time           |   Lab Time        |  Lab Time     ||
 
 ## Week 9: Time series analysis
