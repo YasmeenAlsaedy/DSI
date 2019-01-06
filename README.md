@@ -86,8 +86,8 @@
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
 | 09:50 - 11:20 | **Project 3 Due** & [Intro to bayesian stats - Lesson][8-1a] |[Naive Bayes - Lesson][8-1c]  |[NLP - sentiment analysis - lesson][8-4b] | [sklearn pipeline - lesson/lab][8-4c]   |   Complexity w/ Big O Notation |
 | 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Naive Bayes - Lab][8-1d]     | [NLP - sentiment analysis - lab][8-4b]  | [Bayesian AB testing - Lab][8-5a]   | Lab Time      |
-| 13:30 - 15:00 |   Lab Time           | [Bayes Recap - Lab][8-2c]            | [Twitter api - case study][8-4d]       |  **Capstone Part 2 Due** & Capstone Demos    |  Jeopardy IV       |
-| 15:15 - 17:00 |   Lab Time     |  Lab Time    | Lab Time           |   Lab Time      |  Lab Time     ||
+| 13:30 - 15:00 |   Lab Time           | Outcomes          | [Twitter api - case study][8-4d]       |  **Capstone Part 2 Due** & Capstone Demos    |  Jeopardy IV       |
+| 15:15 - 17:00 |   Lab Time     | [Bayes Recap - Lab][8-2c]     | Lab Time           |   Lab Time      |  Lab Time     ||
 
 ## Week 9: Time series analysis
 
