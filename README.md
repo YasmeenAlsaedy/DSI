@@ -77,17 +77,17 @@
 | ------------- | ------------------------------- | ---------------------------------- | ---------------------------------------- | ---------------------------------- | ----- |
 | 09:50 - 11:20 |  [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lesson][7-2a]   | [Hierarchical_clustering - Lesson][7-3a] | [DBSCAN-Intro - Lesson][7-4a]      |    [Regex mini lesson][7-5a]   |
 | 11:20 - 12:30 | [PCA Intro - Lesson][7-1a]      | [Intro to Kmeans - Lab][7-2b]      | [Hierarchical_clustering - Lab][7-3b]    | [DBSCAN - Lab][7-4b]               |    [KMeans from scratch][7-5b]   |
-| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | Outcomes    | [DBSCAN - Lab][7-4b]               |   **Intro Project 4**    |
+| 13:30 - 15:00 | [PCA Intro - Lab][7-1c]         | [Kmeans evaluation - Lesson][7-2c] | Lab Time    | [DBSCAN - Lab][7-4b]               |   **Intro Project 4**    |
 | 15:15 - 17:00 | [PCA Visualization - Lab][7-1d] | [Kmeans evaluation - Lab][7-2d]    | [PCA Faces - Lab][7-3c]                  | [Battle of clusterers - Lab][7-4d] |  Lab Time     | |
 
 ## Week 8: Bayesian Inference
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 | **Project 3 Due** & [Intro to bayesian stats - Lesson][8-1a] | [Beta-Binomial Model - Lesson][8-2a] | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lesson][8-4b] |      [Bayesian AB testing - Lab][8-5a] |
-| 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Beta-Binomial Model - Lab][8-2b]    | [Pymc3 - Lab][8-3a] | [NLP - sentiment analysis - lab][8-4b]    | Lab Time      |
-| 13:30 - 15:00 | [Naive Bayes - Lesson][8-1c]             | [Bayes Recap - Lab][8-2c]            | Lab Time           | [sklearn pipeline - lesson/lab][8-4c]     |  Jeopardy IV       |
-| 15:15 - 17:00 | [Naive Bayes - Lab][8-1d]                | [Intro to Pymc3 - Lesson][8-2d]      | Lab Time           | [Twitter api - case study][8-4d]          |  Lab Time     ||
+| 09:50 - 11:20 | **Project 3 Due** & [Intro to bayesian stats - Lesson][8-1a] |[Naive Bayes - Lesson][8-1c]  |[NLP - sentiment analysis - lesson][8-4b] | [sklearn pipeline - lesson/lab][8-4c]   |   Complexity w/ Big O Notation |
+| 11:20 - 12:30 | [Intro to bayesian stats - Lab][8-1b]    | [Naive Bayes - Lab][8-1d]     | [NLP - sentiment analysis - lab][8-4b]  | [Bayesian AB testing - Lab][8-5a]   | Lab Time      |
+| 13:30 - 15:00 |   Lab Time           | [Bayes Recap - Lab][8-2c]            | [Twitter api - case study][8-4d]       |  **Capstone Part 2 Due** & Capstone Demos    |  Jeopardy IV       |
+| 15:15 - 17:00 |   Lab Time     |  Lab Time    | Lab Time           |   Lab Time      |  Lab Time     ||
 
 ## Week 9: Time series analysis
 
@@ -102,7 +102,7 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 |**Project 4 Due**|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lesson][11-4a]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
+| 09:50 - 11:20 |**Project 4 Due & Capstone Part 3 Due**|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lesson][11-4a]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
 | 11:20 - 12:30 |[Support Vector Machines - Lesson][11-1c]|[Support Vector Machines - Lab 2][11-2a]|[Networks - Lab][11-4c]|[Neural Networks - Lesson][12-1a]|[Recommendation Systems Intro - Lesson][12-3a]|
 | 13:30 - 15:00 |[Support Vector Machines - Lab 1][11-1d]|[Support Vector Regression - Lab][11-3c]|[Directed Networks - Lesson][11-5a]|[Tensorflow - Lesson][12-2a]|Jeopardy V|
 | 15:15 - 17:00 |Lab Time|Lab Time|[Tube Network - Lab][11-5b]|[Tensorflow - Lab][12-2b]|Lab Time|
@@ -120,10 +120,10 @@
 
 | Session Time  | Day 1                                    | Day 2                                | Day 3               | Day 4                                     | Day 5 |
 | ------------- | ---------------------------------------- | ------------------------------------ | ------------------- | ----------------------------------------- | ----- |
-| 09:50 - 11:20 |Suprise |Capstone|Capstone|Capstone|Presentations|
-| 11:20 - 12:30 |Suprise|Capstone|Capstone|Capstone|Presentations|
-| 13:30 - 15:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
-| 15:15 - 17:00 |Capstone|Capstone|Capstone|Capstone|Presentations|
+| 09:50 - 11:20 |Suprise |Capstone|Capstone| **Capstone Part 4/5 Due** & Presentations|Presentations|
+| 11:20 - 12:30 |Suprise|Capstone|Capstone|Presentations|Presentations|
+| 13:30 - 15:00 |Capstone|Capstone|Capstone|Presentations|Presentations|
+| 15:15 - 17:00 |Capstone|Capstone|Capstone|Presentations|Wrap Up|
 
 
 [1-1a]: ./week01/day1_intro_command_line_and_github/DSI_intro
@@ -380,6 +380,7 @@
 | 19/12 9:00    |     |   Lightning Talks I    |  |
 | 30/12 9:00    | [Decision Trees - lab1][6-1b] <br> [Random Forest - Lab][6-2d] <br> [NLP Intro - Lab][6-4b]    |       |  |
 | 06/01 9:00    |  [PCA Intro - Lab][7-1c]<br/>[Intro to Kmeans - Lab][7-2b]<br/>[Battle of clusterers - Lab][7-4d]  | Project 3      |  |
+| 13/01 9:00    |  [Naive Bayes - Lab][8-1d]<br/>[NLP - sentiment analysis - lab][8-4b]<br/>[Twitter api - case study][8-4d]  |    |  |
 ## Communication
   - You have been invited to the following Slack teams:
     - [Misk Academy Slack](https://miskacademy.slack.com)
