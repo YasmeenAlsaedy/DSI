@@ -16,23 +16,17 @@ Create your own database and data dictionary, then clean and munge your data as 
 
 ## Requirements
 
-1. Find and Clean Your Data: Source and format the required data for your project.
-   - Create a database
-   - Create a data dictionary
-2. Perform preliminary data munging and cleaning of your data: organize your data relevant to your project goals.
-   - Review data to verify initial assumptions
-   - Clean and munge data as necessary
-3. Describe your data: keep your intended audience(s) in mind.
+1. Describe your data: keep your intended audience(s) in mind.
    - Document your work so far in a Jupyter notebook.
 
 #### Bonus
 
-4. Document your project goals (revise from your initial pitch)
+2. Document your project goals (revise from your initial pitch)
    - Articulate “Specific aim”
    - Outline proposed methods and models
    - Define risks & assumptions
 
-5. Create a blog post of at least 500 words that describes your work so far. Link to it in your Jupyter notebook.
+3. Create a blog post of at least 500 words that describes your work so far. Link to it in your Jupyter notebook.
 
 ---
 
