@@ -373,6 +373,7 @@
 | 06/01 9:00    |  [PCA Intro - Lab][7-1c]<br/>[Intro to Kmeans - Lab][7-2b]<br/>[Battle of clusterers - Lab][7-4d]  | Project 3      |  |
 | 13/01 9:00    |  [Naive Bayes - SPAM Lab][8-1d]<br/>[NLP - sentiment analysis - lab][8-4b]  |    | [Twitter api - case study][8-4d] |
 | 20/01 9:00    | [Time Series datetime Lesson/Lab][9-1b] <br/> [ARIMA - Lab](https://git.generalassemb.ly/DSI-Misk-II/DSI/blob/master/week09/day2_arima_models/4_timeseries_arima_lab/ARIMA-lab-startercode.ipynb) <br/> [Seasonal Arima - Lab][9-3d]|Project 4    |  |
+| 27/01 9:00    | networks_lab <br/> neural_network_lab <br/> SVM-lab  |  | |
 
 ## Communication
   - You have been invited to the following Slack teams:
