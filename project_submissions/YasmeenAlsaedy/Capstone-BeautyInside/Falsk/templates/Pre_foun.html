@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+
+    <!-- CSS -->
+    <!-- Add Material font (Roboto) and Material icon as needed -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Add Material CSS, replace Bootstrap CSS -->
+    <link href= "{{ url_for('static',filename='css/material.min.css') }}" rel="stylesheet">
+
+    <style type="text/css">
+        
+              .btn:not(:disabled):not(.disabled) {
+          cursor: pointer;
+          margin: auto;
+          margin-top: 40px;
+          margin-right: auto;
+          margin-bottom: auto;
+          margin-left: auto;
+      }
+
+      .form-group {
+          margin-bottom: 1rem;
+          margin-top: 50px;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      th, td {
+        padding: 5px;
+        text-align: left;
+      }
+
+    </style>
+    <title>Beauty Inside</title>
+
+  </head>
+  <body>
+
+
+
+    <div style="border:3px; border-style:solid; border-color:#000000; padding: 1em;background-image:url('{{url_for('static', filename='bgi.png')}}');">
+      <div style="background-color:#F7EBE9;text-align: center;">
+          <h1 align="center" style="margin-top: 20px;color:#F08080;margin-bottom: 40px; height: 300%;">Beauty Inside</h1>
+        <h1 align="center" style="margin-top: 30px;color:#E9967A  ;font-size:200%;">Hello, {{name}}</h1>
+ </div>
+<div class="card" style="width: 18rem;">
+  <img height="400px" width="290px" class="card-img-top" src="{{url_for('static', filename='f1.png')}}" alt="Card image cap">
+  <div class="card-body">
+      <p style="font-style:bold;background-color: #F5B7B1;">Foundation Name:</p>
+    <h5 class="card-title" style="font-size:15px;background-color: #F5B7B1;background-color: #F08080;;">
+    {{foundation_name}}</h5>
+        <table style="width:100%;">
+  
+                    <tr>
+            <th style="color:#FA8072;">Brand</th>
+            <td>{{Brand}}</td>
+          </tr>
+                    <tr>
+            <th style="color:#FA8072;">Price</th>
+            <td>{{price}}$</td>
+          </tr>
+                    <tr>
+            <th style="color:#FA8072;">Overall Rank</th>
+            <td>{{rank}}%</td>
+          </tr>
+        </table>
+    <a href="{{link}}" class="btn btn-primary" style="background-color: #FD786B ;"> See your foundation </a>
+  </div>
+</div>
+
+
+
+
+
+  
+
+</div>
+   <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- Then Material JavaScript on top of Bootstrap JavaScript -->
+    <script href= "{{ url_for('static', filename='js/material.min.js') }}"/>
+
+  </body>
+</html>

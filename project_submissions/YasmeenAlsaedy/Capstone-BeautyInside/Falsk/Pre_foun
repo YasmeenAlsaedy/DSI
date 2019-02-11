@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+
+    <!-- CSS -->
+    <!-- Add Material font (Roboto) and Material icon as needed -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Add Material CSS, replace Bootstrap CSS -->
+    <link href="css/material.min.css" rel="stylesheet">
+    <style type="text/css">
+    	
+    	.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin: auto;
+    margin-top: 40px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    margin-top: 50px;
+}
+
+    </style>
+  </head>
+  <body>
+  <div style="border:3px; border-style:solid; border-color:#000000; padding: 1em;background-color:#D7DBDD;">
+          <h1 align="center" style="margin-top: 10px;color:#F08080 ">Beauty Inside</h1>
+
+</div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- Then Material JavaScript on top of Bootstrap JavaScript -->
+    <script src="js/material.min.js"></script>
+  </body>
+</html>

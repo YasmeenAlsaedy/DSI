@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+
+    <!-- CSS -->
+    <!-- Add Material font (Roboto) and Material icon as needed -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Add Material CSS, replace Bootstrap CSS -->
+    <link href= "{{ url_for('static',filename='css/material.min.css') }}" rel="stylesheet">
+    <style type="text/css">
+    	
+    	.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin: auto;
+    margin-top: 40px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    margin-top: 50px;
+}
+
+    </style>
+  </head>
+  <body>
+  	<div style="border:3px; border-style:solid; border-color:#000000; padding: 1em;background-image:url('file:///users/jasmine/Desktop/bgi.png');">
+  		   	<h1 align="center" style="margin-top: 20px;color:#F08080;background-color:#F7EBE9;margin-bottom: 40px; height: 300%;">Beauty Inside</h1>
+    <form action="http://127.0.0.1:5000/beautyinside" method="POST" align="center">
+   <div class="form-group row">
+
+    <label  class="col-sm-2 col-form-label"></label>
+    <div class="col-sm-5" style=" margin-left: 50px;">
+      <input type="text" name="name" class="form-control" id="inputPassword" placeholder="  Enter Your Name" style="background-color:#FFCCC7;width:200px;height:30px;">
+
+
+
+<br>
+
+<select class="form-control form-control-lg" name="HairColor" style="margin-top: 50px;background-color: #F5B7B1; width:200px;height:30px;" >
+  <option disabled selected > Select Your Hair Color </option>
+   <option value="Auburn"> Auburn</option>
+  <option value="Black" > Black</option>
+  <option value="Blonde"> Blonde</option>
+  <option value="Brunette"> Brunette</option>
+  <option value="Gray"> Gray</option>
+  <option value="Red"> Red</option>
+</select>
+
+<br>
+<select class="form-control" name="SkinType" style="margin-top: 50px; background-color:#FFB1AA;width:200px;height:30px;" >
+  <option disabled selected>  Select Your Skin Type </option>
+  <option value="Normal"> Normal</option>
+  <option value="Dry"> Dry</option>
+  <option value="Combination"> Combination</option>
+  <option value="Oily"> Oily</option>
+  <option value="Sensitive"> Sensitive</option>
+</select>
+
+<br>
+<select class="form-control" name="SkinTone" style="margin-top: 50px; background-color:#FE9D93;width:200px;height:30px;">
+	<option disabled selected>  Select Your Skin Tone  </option>
+	<option value="Fair"> Fair</option>
+	<option value="Light" > Light</option>
+	<option value="Porcelain"> Porcelain</option>
+	<option value="Medium"> Medium</option>
+	  <option value="Olive"> Olive</option>
+
+	  <option value="Tan"> Tan</option>
+	  <option value="Deep"> Deep</option>
+	  <option value="Ebony"> Ebony</option>
+  <option value="Dark"> Dark</option>
+  
+</select>
+<br>
+<br>
+<br>
+<label for="inputEmail3" class="col-form-label" style="margin-top: 50px;background-color:#FD786B;">  Skin Color Image</label>
+  <div class="cc-selector">
+<br>
+
+<label >
+    <input type="radio" id="radioZoom14" name="n" value="https://www.sephora.com/productimages/sku/s2178523+sw.jpg" checked />
+    <img src="https://www.sephora.com/productimages/sku/s2178523+sw.jpg">
+   
+</label>
+
+<label >
+    <input type="radio" id="radioZoom18" name="n" value="https://www.sephora.com/productimages/sku/s1900836+sw.jpg" />
+    <img src="https://www.sephora.com/productimages/sku/s1900836+sw.jpg">
+
+</label>
+
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1709039+sw.jpg" >
+  <img src="https://www.sephora.com/productimages/sku/s1709039+sw.jpg">
+</label>
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1674670+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1674670+sw.jpg">
+</label>
+
+
+<br>
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s2062016+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s2062016+sw.jpg">
+</label>
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s2106557+sw.jpg" >
+  <img src="https://www.sephora.com/productimages/sku/s2106557+sw.jpg">
+</label>
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1787761+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1787761+sw.jpg">
+</label>
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1501899+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1501899+sw.jpg">
+</label>
+
+<br>
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s2112092+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s2112092+sw.jpg">
+</label>
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1465186+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1465186+sw.jpg">
+</label>
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1778547+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1778547+sw.jpg">
+</label>
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1398874+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1398874+sw.jpg">
+</label>
+
+
+
+
+
+
+
+<br>
+</div>
+
+
+
+  <button type="submit" class="btn btn-primary" style="width:200px;height:20px;background-color:#FD786B ;">Submit</button>
+    </div>
+</form>
+</div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- Then Material JavaScript on top of Bootstrap JavaScript -->
+    <script href= "{{ url_for('static', filename='js/material.min.js') }}"/>
+  </body>
+</html>
+
+<!--
+
+<style type="text/css">
+	
+label { display: inline-block }
+label > input { /* HIDE RADIO */
+  visibility: hidden; /* Makes input not-clickable */
+  position: absolute; /* Remove input from document flow */
+}
+label > input + img { /* IMAGE STYLES */
+  cursor:pointer;
+  border:2px solid transparent;
+}
+label > input:checked + img { /* (RADIO CHECKED) IMAGE STYLES */
+  border:2px solid #f00;
+}
+</style>
+<html>
+<head>
+</head>
+<body>
+<form action="http://127.0.0.1:5000/beautyinside" method="POST">
+Your name <br>
+<input type="text" name="name">
+<br>
+Hair Color 
+  <select name="HairColor">
+   <option value="Auburn">Auburn</option>
+  <option value="Black" selected>Black</option>
+  <option value="Blonde">Blonde</option>
+  <option value="Brunette">Brunette</option>
+  <option value="Gray">Gray</option>
+  <option value="Red">Red</option>
+</select>
+<br>
+Skin Type 
+  <select name="SkinType">
+  <option value="Normal" selected>Normal</option>
+  <option value="Dry">Dry</option>
+  <option value="Combination">Combination</option>
+  <option value="Oily">Oily</option>
+  <option value="Sensitive">Sensitive</option>
+</select>
+<br>
+Skin Tone 
+  <select name="SkinTone">
+  <option value="Dark">Dark</option>
+  <option value="Deep">Deep</option>
+  <option value="Ebony">Ebony</option>
+  <option value="Fair">Fair</option>
+  <option value="Light" selected>Light</option>
+  <option value="Medium">Medium</option>
+  <option value="Olive">Olive</option>
+  <option value="Porcelain">Porcelain</option>
+  <option value="Tan">Tan</option>
+</select>
+<br>
+
+Skin Color image 
+<div class="cc-selector">
+<br>
+
+<label >
+    <input type="radio" id="radioZoom14" name="n" value="https://www.sephora.com/productimages/sku/s2178523+sw.jpg" checked />
+    <img src="https://www.sephora.com/productimages/sku/s2178523+sw.jpg">
+   
+</label>
+
+<label >
+    <input type="radio" id="radioZoom18" name="n" value="https://www.sephora.com/productimages/sku/s1900836+sw.jpg" />
+    <img src="https://www.sephora.com/productimages/sku/s1900836+sw.jpg">
+
+</label>
+
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1709039+sw.jpg" >
+  <img src="https://www.sephora.com/productimages/sku/s1709039+sw.jpg">
+</label>
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1674670+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1674670+sw.jpg">
+</label>
+
+
+<br>
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s2062016+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s2062016+sw.jpg">
+</label>
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s2106557+sw.jpg" >
+  <img src="https://www.sephora.com/productimages/sku/s2106557+sw.jpg">
+</label>
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1787761+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1787761+sw.jpg">
+</label>
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1501899+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1501899+sw.jpg">
+</label>
+
+<br>
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s2112092+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s2112092+sw.jpg">
+</label>
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1465186+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1465186+sw.jpg">
+</label>
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1778547+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1778547+sw.jpg">
+</label>
+
+
+
+<label>
+  <input type="radio" name="n" value="https://www.sephora.com/productimages/sku/s1398874+sw.jpg">
+  <img src="https://www.sephora.com/productimages/sku/s1398874+sw.jpg">
+</label>
+
+
+
+
+
+
+
+<br>
+</div>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
+
+-->
